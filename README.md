@@ -15,6 +15,7 @@ The Lich Engine is game engine project couple with a engine editor. This project
 </ul>
 </b>
 To launch the project on Visual Studio move every file of the "Builds" folder in the LichEngine/x64/Debug folder.
+The DLL are in a zip. You need to un Zip to launch project
 </div>
 <hr>
 <p align="center">
