@@ -1,0 +1,8 @@
+# Blender 3.3.0 MTL File: 'None'
+# www.blender.org
+
+newmtl Material
+map_Kd Camera_Base_color.png
+norm Camera_Normal_DirectX.png
+map_Pm Camera_Metallic.png
+map_Pr Camera_Roughness.png

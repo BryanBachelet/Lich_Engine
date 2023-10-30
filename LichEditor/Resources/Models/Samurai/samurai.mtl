@@ -1,0 +1,14 @@
+newmtl Samurai
+map_Kd Samurai_BaseColor.png
+norm Samurai_NormalMap.png
+map_Pm Samurai_Metalness.png
+map_Pr Samurai_Roughness.png
+map_Ka Samurai_AOMap.png
+
+newmtl Pillar
+map_Kd PillarColor.jpg
+map_Ka PillarAO.png
+
+newmtl Dust
+map_Kd PillarColor.jpg
+

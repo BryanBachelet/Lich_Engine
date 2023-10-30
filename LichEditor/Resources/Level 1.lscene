@@ -1,0 +1,2143 @@
+2,.\Resources\Models\battery\textures\Battery_albedo.jpeg,Battery_albedo,
+2,.\Resources\Models\battery\textures\Battery_normal.jpeg,Battery_normal,
+2,.\Resources\Models\battery\textures\Battery_metallic.jpeg,Battery_metallic,
+2,.\Resources\Models\battery\textures\Battery_roughness.jpeg,Battery_roughness,
+2,.\Resources\Models\battery\textures\Battery_AO.jpeg,Battery_AO,
+6,.\Resources\Materials\battery_Material_1.lmat,battery_Material_1,
+0,.\Resources\Models\battery\battery.obj,battery,
+2,.\Resources\Models\EnergyCapsule\low_def_capsula_BaseColor.png,low_def_capsula_BaseColor,
+2,.\Resources\Models\EnergyCapsule\low_def_capsula_Normal.png,low_def_capsula_Normal,
+2,.\Resources\Models\EnergyCapsule\low_def_capsula_Metallic.png,low_def_capsula_Metallic,
+2,.\Resources\Models\EnergyCapsule\low_def_capsula_Roughness.png,low_def_capsula_Roughness,
+6,.\Resources\Materials\Capsule1_aiStandardSurface1.lmat,Capsule1_aiStandardSurface1,
+2,.\Resources\Models\EnergyCapsule\low_def_cristal_BaseColor.png,low_def_cristal_BaseColor,
+2,.\Resources\Models\EnergyCapsule\low_def_cristal_Normal.png,low_def_cristal_Normal,
+2,.\Resources\Models\EnergyCapsule\low_def_cristal_Metallic.png,low_def_cristal_Metallic,
+2,.\Resources\Models\EnergyCapsule\low_def_cristal_Roughness.png,low_def_cristal_Roughness,
+6,.\Resources\Materials\Capsule1_blinn1.lmat,Capsule1_blinn1,
+0,.\Resources\Models\EnergyCapsule\Capsule1.obj,Capsule1,
+2,.\Resources\Models\CorridorTwo\DefaultMaterial_Base_Color-3.png,DefaultMaterial_Base_Color-3,
+2,.\Resources\Models\CorridorTwo\DefaultMaterial_Normal-5.png,DefaultMaterial_Normal-5,
+2,.\Resources\Models\CorridorTwo\DefaultMaterial_Metallic_png-DefaultMaterial_Roughness_png-4.png,DefaultMaterial_Metallic_png-DefaultMaterial_Roughness_png-4,
+6,.\Resources\Materials\Ceiling_Material.034.lmat,Ceiling_Material.034,
+0,.\Resources\Models\CorridorTwo\Ceiling1.obj,Ceiling1,
+0,.\Resources\Models\CorridorTwo\Ceiling.obj,Ceiling,
+2,.\Resources\Models\MedicalConsole\lambert1_albedo.jpg,lambert1_albedo,
+2,.\Resources\Models\MedicalConsole\lambert1_normal.png,lambert1_normal,
+2,.\Resources\Models\MedicalConsole\lambert1_metallic.jpg,lambert1_metallic,
+2,.\Resources\Models\MedicalConsole\lambert1_roughness.jpg,lambert1_roughness,
+2,.\Resources\Models\MedicalConsole\lambert1_AO.jpg,lambert1_AO,
+6,.\Resources\Materials\model_lambert1.lmat,model_lambert1,
+2,.\Resources\Models\MedicalConsole\lambert1_emissive.jpg,lambert1_emissive,
+6,.\Resources\Materials\ConsoleMat1.lmat,ConsoleMat1,
+2,.\Resources\Models\CorridorTwo\Puerta_Base_Color.png,Puerta_Base_Color,
+2,.\Resources\Models\CorridorTwo\Partes\Puerta\Puerta_Normal.png,Puerta_Normal,
+2,.\Resources\Models\CorridorTwo\Puerta_Metallic.png,Puerta_Metallic,
+2,.\Resources\Models\CorridorTwo\Puerta_Roughness.png,Puerta_Roughness,
+6,.\Resources\Materials\Door1.lmat,Door1,
+0,.\Resources\Models\MedicalConsole\model.dae,model,
+2,.\Resources\Models\Crate\crate_light_albedo.png,crate_light_albedo,
+2,.\Resources\Models\Crate\crate_light_normal.png,crate_light_normal,
+2,.\Resources\Models\Crate\crate_light_metalness.png,crate_light_metalness,
+2,.\Resources\Models\Crate\crate_light_roughness.png,crate_light_roughness,
+2,.\Resources\Models\Crate\crate_light_ao.png,crate_light_ao,
+6,.\Resources\Materials\CrateMat.lmat,CrateMat,
+0,.\Resources\Models\Crate\crate_light.obj,crate_light,
+2,.\Resources\Models\Capsule\tex.jpg,tex,
+2,.\Resources\Models\Capsule\Capsule_Normal_OpenGL.png,Capsule_Normal_OpenGL,
+2,.\Resources\Models\Capsule\Capsule_Metallic.png,Capsule_Metallic,
+2,.\Resources\Models\Capsule\Capsule_Mixed_AO.png,Capsule_Mixed_AO,
+6,.\Resources\Materials\Capsule2_Capsule.lmat,Capsule2_Capsule,
+0,.\Resources\Models\Capsule\Capsule2.obj,Capsule2,
+4,.\Resources\Sounds\FlashlightTurnOn.ogg,FlashlightTurnOn,
+4,.\Resources\Sounds\FlashlightTurnOff.ogg,FlashlightTurnOff,
+4,.\Resources\Sounds\Recharge.ogg,Recharge,
+2,.\Resources\Models\Flashlight\Flashlight_BaseColor.png,Flashlight_BaseColor,
+2,.\Resources\Models\Flashlight\Flashlight_normal.png,Flashlight_normal,
+2,.\Resources\Models\Flashlight\Flashlight_Metalness.png,Flashlight_Metalness,
+6,.\Resources\Materials\Flashlight_M_Flashlight_V01.lmat,Flashlight_M_Flashlight_V01,
+0,.\Resources\Models\Flashlight\Flashlight.obj,Flashlight,
+2,.\Resources\Models\sci-fi-generator\textures\Gen_BaseColor.png,Gen_BaseColor,
+2,.\Resources\Models\sci-fi-generator\textures\Gen_Normal_OpenGL.png,Gen_Normal_OpenGL,
+2,.\Resources\Models\sci-fi-generator\textures\Gen_Metallic.png,Gen_Metallic,
+2,.\Resources\Models\Samurai\Samurai_Roughness.png,Samurai_Roughness,
+2,.\Resources\Models\sci-fi-generator\textures\Gen_Mixed_AO.png,Gen_Mixed_AO,
+6,.\Resources\Materials\generator_initialShadingGroup.lmat,generator_initialShadingGroup,
+0,.\Resources\Models\sci-fi-generator\generator.obj,generator,
+2,.\Resources\Models\CorridorTwo\Marcopuerta_Base_Color.png,Marcopuerta_Base_Color,
+2,.\Resources\Models\CorridorTwo\Marcopuerta_Normal.png,Marcopuerta_Normal,
+2,.\Resources\Models\CorridorTwo\Marcopuerta_Metallic.png,Marcopuerta_Metallic,
+6,.\Resources\Models\CorridorTwo\Door2.lmat,Door2,
+0,.\Resources\Models\CorridorTwo\Door.obj,Door,
+2,.\Resources\Models\CorridorTwo\Piso_Base_Color.png,Piso_Base_Color,
+2,.\Resources\Models\CorridorTwo\Piso_Normal.png,Piso_Normal,
+2,.\Resources\Models\CorridorTwo\Piso_Metallic.png,Piso_Metallic,
+2,.\Resources\Models\CorridorTwo\Piso_Metallic-Piso_Roughness@channels=G.png,Piso_Metallic-Piso_Roughness@channels=G,
+6,.\Resources\Materials\Ground_Material.005.lmat,Ground_Material.005,
+2,.\Resources\Models\CorridorTwo\Tiles_Base_Color.png,Tiles_Base_Color,
+2,.\Resources\Models\CorridorTwo\textures\Tiles_Normal.png,Tiles_Normal,
+2,.\Resources\Models\CorridorTwo\Puerta_Metallic_png-Puerta_Roughness_png@channels=G.png,Puerta_Metallic_png-Puerta_Roughness_png@channels=G,
+2,.\Resources\Models\CorridorTwo\textures\Tiles_Roughness.png,Tiles_Roughness,
+6,.\Resources\Materials\Ground_Material.019.lmat,Ground_Material.019,
+0,.\Resources\Models\CorridorTwo\Ground.obj,Ground,
+6,.\Resources\Materials\Tiles_Material.019.lmat,Tiles_Material.019,
+0,.\Resources\Models\CorridorTwo\Tiles.obj,Tiles,
+4,.\Resources\Sounds\footstep_1.ogg,footstep_1,
+4,.\Resources\Sounds\footstep_2.ogg,footstep_2,
+4,.\Resources\Sounds\footstep_3.ogg,footstep_3,
+4,.\Resources\Sounds\footstep_4.ogg,footstep_4,
+4,.\Resources\Sounds\footstep_5.ogg,footstep_5,
+4,.\Resources\Sounds\footstep_6.ogg,footstep_6,
+4,.\Resources\Sounds\footstep_7.ogg,footstep_7,
+4,.\Resources\Sounds\mixkit-aggressive-beast-roar-13.wav,mixkit-aggressive-beast-roar-13,
+6,.\Resources\Materials\Zombie Scream_Ch30_Body.lmat,Zombie Scream_Ch30_Body,
+6,.\Resources\Materials\Zombie Scream_Ch30_Body1.lmat,Zombie Scream_Ch30_Body1,
+0,.\Resources\Models\Characters\ZombieWalking.fbx,ZombieWalking,
+3,.\Resources\Models\Characters\ZombieWalking_skeleton.lskel,ZombieWalking_skeleton,
+5,.\Resources\Models\Characters\ZombieWalking_anim0.lanim,ZombieWalking_anim0,
+5,.\Resources\Models\Characters\NewZombieScream_anim0.lanim,NewZombieScream_anim0,
+5,.\Resources\Models\Characters\newZombieRunning_anim0.lanim,newZombieRunning_anim0,
+6,.\Resources\Materials\Blood.lmat,Blood,
+0,.\Resources\Models\CorridorTwo\Plane.obj,Plane,
+4,.\Resources\Sounds\Voice_Com.wav,Voice_Com,
+2,.\Resources\Models\Radio\textures\radio_albedo.jpeg,radio_albedo,
+2,.\Resources\Models\Radio\textures\radio__normal.png,radio__normal,
+2,.\Resources\Models\Radio\textures\radio__metallic.jpeg,radio__metallic,
+2,.\Resources\Models\Radio\textures\radio__roughness.jpeg,radio__roughness,
+2,.\Resources\Models\Radio\textures\radio__AO.jpeg,radio__AO,
+6,.\Resources\Materials\radio_01___Default.lmat,radio_01___Default,
+0,.\Resources\Models\Radio\radio.obj,radio,
+4,.\Resources\Sounds\level_loop.ogg,level_loop,
+4,.\Resources\Sounds\Launch.wav,Launch,
+8,.\Resources\Fonts\BLOODY.TTF,BLOODY,
+4,.\Resources\Sounds\WrenchHit1.ogg,WrenchHit1,
+4,.\Resources\Sounds\WrenchHit2.ogg,WrenchHit2,
+4,.\Resources\Sounds\WrenchHit3.ogg,WrenchHit3,
+4,.\Resources\Sounds\GetWrench.ogg,GetWrench,
+2,.\Resources\Models\walworth-wrench\textures\assembled_vintage_wrench_base_color.jpg,assembled_vintage_wrench_base_color,
+2,.\Resources\Models\walworth-wrench\textures\assembled_vintage_wrench_normal.jpg,assembled_vintage_wrench_normal,
+2,.\Resources\Models\walworth-wrench\textures\assembled_vintage_wrench_metallic.jpg,assembled_vintage_wrench_metallic,
+2,.\Resources\Models\walworth-wrench\textures\assembled_vintage_wrench_roughness.jpg,assembled_vintage_wrench_roughness,
+6,.\Resources\Materials\wrench_vintage_wrench.lmat,wrench_vintage_wrench,
+0,.\Resources\Models\walworth-wrench\wrench.obj,wrench,
+4,.\Resources\Sounds\crash2.ogg,crash2,
+4,.\Resources\Sounds\IntenseHit.ogg,IntenseHit,
+2,.\Resources\Textures\BlackBackground.png,BlackBackground,
+2,.\Resources\Models\CorridorTwo\DefaultMaterial_Normal_OpenGL.png,DefaultMaterial_Normal_OpenGL,
+2,.\Resources\Models\CorridorTwo\DefaultMaterial_Metallic.png,DefaultMaterial_Metallic,
+2,.\Resources\Models\CorridorTwo\DefaultMaterial_Roughness.png,DefaultMaterial_Roughness,
+6,.\Resources\Materials\Wall2_Material.004.lmat,Wall2_Material.004,
+0,.\Resources\Models\CorridorTwo\SimpleWall.obj,SimpleWall,
+***
+BatteryManager
+1
+~T,0.000000 0.000000 0.000000 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,none,~8,BatteryManager, ,
+***
+Battery1
+1
+~T,-22.834850 -1.081805 34.615704 ,0.000000 0.000000 0.000000 ,0.200000 0.200000 0.200000 ,BatteryManager,~4,battery,0,1,battery_Material_1/,~8,Battery,1.000000,30.000000,
+***
+Battery2
+1
+~T,-3.770264 -1.074734 12.883856 ,0.000000 0.000000 0.000000 ,0.200000 0.200000 0.200000 ,BatteryManager,~4,battery,0,1,battery_Material_1/,~8,Battery,1.000000,30.000000,
+***
+Battery3
+1
+~T,-4.972333 -1.075000 10.193603 ,0.000000 0.000000 0.000000 ,0.200000 0.200000 0.200000 ,BatteryManager,~8,Battery,1.000000,30.000000,~4,battery,0,1,battery_Material_1/,
+***
+Battery14
+1
+~T,-18.016415 -1.081805 29.761261 ,0.000000 0.000000 0.000000 ,0.200000 0.200000 0.200000 ,BatteryManager,~4,battery,0,1,battery_Material_1/,~8,Battery,1.000000,30.000000,
+***
+Battery13
+1
+~T,-15.999135 -1.081805 17.497015 ,0.000000 0.000000 0.000000 ,0.200000 0.200000 0.200000 ,BatteryManager,~4,battery,0,1,battery_Material_1/,~8,Battery,1.000000,30.000000,
+***
+Battery12
+1
+~T,-5.242069 -1.081805 17.741253 ,-180.000000 -71.477333 -180.000000 ,0.200000 0.200000 0.200000 ,BatteryManager,~4,battery,0,1,battery_Material_1/,~8,Battery,1.000000,30.000000,
+***
+Battery11
+1
+~T,-0.795648 -1.081805 7.701318 ,-180.000000 -71.477333 -180.000000 ,0.200000 0.200000 0.200000 ,BatteryManager,~4,battery,0,1,battery_Material_1/,~8,Battery,1.000000,30.000000,
+***
+Caspule2
+1
+~T,-0.533828 -1.214177 6.165930 ,90.000000 0.000000 0.000000 ,0.075000 0.075000 0.075000 ,none,~4,Capsule1,0,2,Capsule1_aiStandardSurface1/Capsule1_blinn1/,
+***
+Ceiling
+1
+~T,1.580161 -0.465903 7.078794 ,0.000000 90.000000 0.000000 ,0.100000 0.150000 0.150000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling 10
+1
+~T,-0.586392 -0.465903 7.812306 ,0.000000 90.000000 0.000000 ,0.100000 0.150000 0.150000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling 11
+1
+~T,0.498487 -0.465903 7.828405 ,0.000000 90.000000 0.000000 ,0.100000 0.150000 0.150000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling 13
+1
+~T,0.498487 -0.465903 8.646848 ,0.000000 90.000000 0.000000 ,0.100000 0.150000 0.150000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling 14
+1
+~T,1.799775 -0.466000 5.942331 ,0.000000 90.000000 0.000000 ,0.180000 0.150000 0.200000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling 15
+1
+~T,1.580161 -0.465903 9.496675 ,0.000000 90.000000 0.000000 ,0.100000 0.150000 0.150000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling 16
+1
+~T,1.580161 -0.465903 7.078794 ,0.000000 90.000000 0.000000 ,0.100000 0.150000 0.150000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling 17
+1
+~T,1.580161 -0.465903 7.882087 ,0.000000 90.000000 0.000000 ,0.100000 0.150000 0.150000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling 18
+1
+~T,1.580161 -0.465903 8.686468 ,0.000000 90.000000 0.000000 ,0.100000 0.150000 0.150000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling 3
+1
+~T,0.516385 -0.465903 7.063232 ,0.000000 0.000000 0.000000 ,0.150000 0.150000 0.150000 ,none,~4,Ceiling,0,2,Ceiling_Material.034/Ceiling_Material.034/,
+***
+Ceiling 31
+1
+~T,0.516385 -0.465903 5.301451 ,0.000000 90.000000 0.000000 ,0.150000 0.150000 0.150000 ,none,~4,Ceiling,0,2,Ceiling_Material.034/Ceiling_Material.034/,
+***
+Ceiling 311
+1
+~T,0.516385 -0.465903 4.429473 ,0.000000 90.000000 0.000000 ,0.150000 0.150000 0.150000 ,none,~4,Ceiling,0,2,Ceiling_Material.034/Ceiling_Material.034/,
+***
+Ceiling 32
+1
+~T,-24.070910 -0.505390 43.835548 ,0.000000 90.000000 0.000000 ,0.150000 0.150000 0.150000 ,none,~4,Ceiling,0,2,Ceiling_Material.034/Ceiling_Material.034/,
+***
+Ceiling 321
+1
+~T,-4.179824 -0.465903 14.653418 ,0.000000 90.000000 0.000000 ,0.150000 0.150000 0.150000 ,none,~4,Ceiling,0,2,Ceiling_Material.034/Ceiling_Material.034/,
+***
+Ceiling 3210
+1
+~T,-4.179824 -0.465903 15.872310 ,0.000000 90.000000 0.000000 ,0.150000 0.150000 0.150000 ,none,~4,Ceiling,0,2,Ceiling_Material.034/Ceiling_Material.034/,
+***
+Ceiling 3211
+1
+~T,-4.179824 -0.465903 17.089006 ,0.000000 90.000000 0.000000 ,0.150000 0.150000 0.150000 ,none,~4,Ceiling,0,2,Ceiling_Material.034/Ceiling_Material.034/,
+***
+Ceiling 3212
+1
+~T,-4.179824 -0.465903 18.301960 ,0.000000 90.000000 0.000000 ,0.150000 0.150000 0.150000 ,none,~4,Ceiling,0,2,Ceiling_Material.034/Ceiling_Material.034/,
+***
+Ceiling 3213
+1
+~T,-5.333740 -0.466000 17.585314 ,0.000000 0.000000 0.000000 ,0.150000 0.150000 0.150000 ,none,~4,Ceiling,0,2,Ceiling_Material.034/Ceiling_Material.034/,
+***
+Ceiling 3214
+1
+~T,-12.668004 -0.466000 17.585314 ,0.000000 0.000000 0.000000 ,0.150000 0.150000 0.150000 ,none,~4,Ceiling,0,2,Ceiling_Material.034/Ceiling_Material.034/,
+***
+Ceiling 32141
+1
+~T,-6.557148 -0.466000 17.585314 ,0.000000 0.000000 0.000000 ,0.150000 0.150000 0.150000 ,none,~4,Ceiling,0,2,Ceiling_Material.034/Ceiling_Material.034/,
+***
+Ceiling 32142
+1
+~T,-7.783114 -0.466000 17.585314 ,0.000000 0.000000 0.000000 ,0.150000 0.150000 0.150000 ,none,~4,Ceiling,0,2,Ceiling_Material.034/Ceiling_Material.034/,
+***
+Ceiling 32143
+1
+~T,-9.002546 -0.466000 17.585314 ,0.000000 0.000000 0.000000 ,0.150000 0.150000 0.150000 ,none,~4,Ceiling,0,2,Ceiling_Material.034/Ceiling_Material.034/,
+***
+Ceiling 32144
+1
+~T,-10.227958 -0.466000 17.585314 ,0.000000 0.000000 0.000000 ,0.150000 0.150000 0.150000 ,none,~4,Ceiling,0,2,Ceiling_Material.034/Ceiling_Material.034/,
+***
+Ceiling 32145
+1
+~T,-11.454562 -0.466000 17.585314 ,0.000000 0.000000 0.000000 ,0.150000 0.150000 0.150000 ,none,~4,Ceiling,0,2,Ceiling_Material.034/Ceiling_Material.034/,
+***
+Ceiling 3215
+1
+~T,-13.891431 -0.466000 17.585314 ,0.000000 0.000000 0.000000 ,0.150000 0.150000 0.150000 ,none,~4,Ceiling,0,2,Ceiling_Material.034/Ceiling_Material.034/,
+***
+Ceiling 3216
+1
+~T,-15.112315 -0.466000 17.585314 ,0.000000 0.000000 0.000000 ,0.150000 0.150000 0.150000 ,none,~4,Ceiling,0,2,Ceiling_Material.034/Ceiling_Material.034/,
+***
+Ceiling 3217
+1
+~T,-16.329050 -0.466000 17.585314 ,0.000000 0.000000 0.000000 ,0.150000 0.150000 0.150000 ,none,~4,Ceiling,0,2,Ceiling_Material.034/Ceiling_Material.034/,
+***
+Ceiling 3218
+1
+~T,-15.878379 -0.466000 18.707699 ,0.000000 90.000000 0.000000 ,0.150000 0.150000 0.150000 ,none,~4,Ceiling,0,2,Ceiling_Material.034/Ceiling_Material.034/,
+***
+Ceiling 3219
+1
+~T,-15.878379 -0.466000 19.926151 ,0.000000 90.000000 0.000000 ,0.150000 0.150000 0.150000 ,none,~4,Ceiling,0,2,Ceiling_Material.034/Ceiling_Material.034/,
+***
+Ceiling 322
+1
+~T,-1.720618 -0.465903 7.519641 ,0.000000 0.000000 0.000000 ,0.150000 0.150000 0.150000 ,none,~4,Ceiling,0,2,Ceiling_Material.034/Ceiling_Material.034/,
+***
+Ceiling 3220
+1
+~T,-15.878379 -0.466000 21.129553 ,0.000000 90.000000 0.000000 ,0.150000 0.150000 0.150000 ,none,~4,Ceiling,0,2,Ceiling_Material.034/Ceiling_Material.034/,
+***
+Ceiling 3221
+1
+~T,-18.199017 -0.466000 26.176487 ,0.000000 90.000000 0.000000 ,0.150000 0.150000 0.150000 ,none,~4,Ceiling,0,2,Ceiling_Material.034/Ceiling_Material.034/,
+***
+Ceiling 3222
+1
+~T,-18.199017 -0.466000 27.395992 ,0.000000 90.000000 0.000000 ,0.150000 0.150000 0.150000 ,none,~4,Ceiling,0,2,Ceiling_Material.034/Ceiling_Material.034/,
+***
+Ceiling 3223
+1
+~T,-18.199017 -0.466000 28.618519 ,0.000000 90.000000 0.000000 ,0.150000 0.150000 0.150000 ,none,~4,Ceiling,0,2,Ceiling_Material.034/Ceiling_Material.034/,
+***
+Ceiling 3224
+1
+~T,-18.199017 -0.466000 29.841000 ,0.000000 90.000000 0.000000 ,0.150000 0.150000 0.150000 ,none,~4,Ceiling,0,2,Ceiling_Material.034/Ceiling_Material.034/,
+***
+Ceiling 3225
+1
+~T,-19.363344 -0.466000 29.649191 ,0.000000 0.000000 0.000000 ,0.150000 0.150000 0.150000 ,none,~4,Ceiling,0,2,Ceiling_Material.034/Ceiling_Material.034/,
+***
+Ceiling 3226
+1
+~T,-20.584780 -0.466000 29.649191 ,0.000000 0.000000 0.000000 ,0.150000 0.150000 0.150000 ,none,~4,Ceiling,0,2,Ceiling_Material.034/Ceiling_Material.034/,
+***
+Ceiling 3227
+1
+~T,-25.475071 -0.466000 29.648354 ,0.000000 0.000000 0.000000 ,0.150000 0.150000 0.150000 ,none,~4,Ceiling,0,2,Ceiling_Material.034/Ceiling_Material.034/,
+***
+Ceiling 32271
+1
+~T,-21.799105 -0.466000 29.649191 ,0.000000 0.000000 0.000000 ,0.150000 0.150000 0.150000 ,none,~4,Ceiling,0,2,Ceiling_Material.034/Ceiling_Material.034/,
+***
+Ceiling 32272
+1
+~T,-23.023359 -0.466000 29.649191 ,0.000000 0.000000 0.000000 ,0.150000 0.150000 0.150000 ,none,~4,Ceiling,0,2,Ceiling_Material.034/Ceiling_Material.034/,
+***
+Ceiling 32273
+1
+~T,-24.249750 -0.466000 29.648354 ,0.000000 0.000000 0.000000 ,0.150000 0.150000 0.150000 ,none,~4,Ceiling,0,2,Ceiling_Material.034/Ceiling_Material.034/,
+***
+Ceiling 3228
+1
+~T,-24.070910 -0.466000 30.421856 ,0.000000 90.000000 0.000000 ,0.150000 0.150000 0.150000 ,none,~4,Ceiling,0,2,Ceiling_Material.034/Ceiling_Material.034/,
+***
+Ceiling 32281
+1
+~T,-24.070910 -0.466000 38.970528 ,0.000000 90.000000 0.000000 ,0.150000 0.150000 0.150000 ,none,~4,Ceiling,0,2,Ceiling_Material.034/Ceiling_Material.034/,
+***
+Ceiling 32282
+1
+~T,-24.070910 -0.466000 37.750206 ,0.000000 90.000000 0.000000 ,0.150000 0.150000 0.150000 ,none,~4,Ceiling,0,2,Ceiling_Material.034/Ceiling_Material.034/,
+***
+Ceiling 32283
+1
+~T,-24.070910 -0.466000 36.531548 ,0.000000 90.000000 0.000000 ,0.150000 0.150000 0.150000 ,none,~4,Ceiling,0,2,Ceiling_Material.034/Ceiling_Material.034/,
+***
+Ceiling 32284
+1
+~T,-24.070910 -0.466000 35.307678 ,0.000000 90.000000 0.000000 ,0.150000 0.150000 0.150000 ,none,~4,Ceiling,0,2,Ceiling_Material.034/Ceiling_Material.034/,
+***
+Ceiling 32285
+1
+~T,-24.070910 -0.466000 34.087418 ,0.000000 90.000000 0.000000 ,0.150000 0.150000 0.150000 ,none,~4,Ceiling,0,2,Ceiling_Material.034/Ceiling_Material.034/,
+***
+Ceiling 32286
+1
+~T,-24.070910 -0.466000 32.864536 ,0.000000 90.000000 0.000000 ,0.150000 0.150000 0.150000 ,none,~4,Ceiling,0,2,Ceiling_Material.034/Ceiling_Material.034/,
+***
+Ceiling 32287
+1
+~T,-24.070910 -0.466000 31.639526 ,0.000000 90.000000 0.000000 ,0.150000 0.150000 0.150000 ,none,~4,Ceiling,0,2,Ceiling_Material.034/Ceiling_Material.034/,
+***
+Ceiling 3229
+1
+~T,-24.070910 -0.466000 40.187107 ,0.000000 90.000000 0.000000 ,0.150000 0.150000 0.150000 ,none,~4,Ceiling,0,2,Ceiling_Material.034/Ceiling_Material.034/,
+***
+Ceiling 323
+1
+~T,0.043002 -0.465903 12.104751 ,0.000000 0.000000 0.000000 ,0.150000 0.150000 0.150000 ,none,~4,Ceiling,0,2,Ceiling_Material.034/Ceiling_Material.034/,
+***
+Ceiling 3230
+1
+~T,-24.049385 -0.466000 41.411636 ,0.000000 90.000000 0.000000 ,0.150000 0.150000 0.150000 ,none,~4,Ceiling,0,2,Ceiling_Material.034/Ceiling_Material.034/,
+***
+Ceiling 3231
+1
+~T,-2.941887 -0.465903 7.519641 ,0.000000 0.000000 0.000000 ,0.150000 0.150000 0.150000 ,none,~4,Ceiling,0,2,Ceiling_Material.034/Ceiling_Material.034/,
+***
+Ceiling 3232
+1
+~T,-1.789599 -0.465903 12.104751 ,0.000000 0.000000 0.000000 ,0.150000 0.150000 0.150000 ,none,~4,Ceiling,0,2,Ceiling_Material.034/Ceiling_Material.034/,
+***
+Ceiling 3233
+1
+~T,-0.765798 -0.465944 12.104751 ,0.000000 0.000000 0.000000 ,0.150000 0.150000 0.150000 ,none,~4,Ceiling,0,2,Ceiling_Material.034/Ceiling_Material.034/,
+***
+Ceiling 3234
+1
+~T,-24.070910 -0.466000 42.633064 ,0.000000 90.000000 0.000000 ,0.150000 0.150000 0.150000 ,none,~4,Ceiling,0,2,Ceiling_Material.034/Ceiling_Material.034/,
+***
+Ceiling 324
+1
+~T,-4.159668 -0.465903 7.519641 ,0.000000 0.000000 0.000000 ,0.150000 0.150000 0.150000 ,none,~4,Ceiling,0,2,Ceiling_Material.034/Ceiling_Material.034/,
+***
+Ceiling 325
+1
+~T,-4.179824 -0.465903 8.666969 ,0.000000 90.000000 0.000000 ,0.150000 0.150000 0.150000 ,none,~4,Ceiling,0,2,Ceiling_Material.034/Ceiling_Material.034/,
+***
+Ceiling 326
+1
+~T,-4.179824 -0.465903 9.905735 ,0.000000 90.000000 0.000000 ,0.150000 0.150000 0.150000 ,none,~4,Ceiling,0,2,Ceiling_Material.034/Ceiling_Material.034/,
+***
+Ceiling 327
+1
+~T,-4.179824 -0.465903 11.131656 ,0.000000 90.000000 0.000000 ,0.150000 0.150000 0.150000 ,none,~4,Ceiling,0,2,Ceiling_Material.034/Ceiling_Material.034/,
+***
+Ceiling 328
+1
+~T,-4.179824 -0.465903 12.340530 ,0.000000 90.000000 0.000000 ,0.150000 0.150000 0.150000 ,none,~4,Ceiling,0,2,Ceiling_Material.034/Ceiling_Material.034/,
+***
+Ceiling 3281
+1
+~T,-4.179824 -0.465903 12.340530 ,0.000000 90.000000 0.000000 ,0.150000 0.150000 0.150000 ,none,~4,Ceiling,0,2,Ceiling_Material.034/Ceiling_Material.034/,
+***
+Ceiling 329
+1
+~T,-4.179824 -0.465903 13.493691 ,0.000000 90.000000 0.000000 ,0.150000 0.150000 0.150000 ,none,~4,Ceiling,0,2,Ceiling_Material.034/Ceiling_Material.034/,
+***
+Ceiling 5
+1
+~T,0.516385 -0.465903 6.263217 ,0.000000 90.000000 0.000000 ,0.100000 0.150000 0.150000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling 6
+1
+~T,-0.586392 -0.465903 6.263217 ,0.000000 90.000000 0.000000 ,0.100000 0.150000 0.150000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling 7
+1
+~T,-0.586392 -0.465903 6.996984 ,0.000000 90.000000 0.000000 ,0.100000 0.150000 0.150000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling 8
+1
+~T,0.498487 -0.465903 9.460067 ,0.000000 90.000000 0.000000 ,0.100000 0.150000 0.150000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling 9
+1
+~T,-0.586392 -0.465903 8.575725 ,0.000000 90.000000 0.000000 ,0.100000 0.150000 0.150000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling1
+1
+~T,0.553398 -0.460541 2.146744 ,0.000000 90.000000 0.000000 ,0.150000 0.150000 0.150000 ,none,~4,Ceiling,0,2,Ceiling_Material.034/Ceiling_Material.034/,
+***
+Ceiling2
+1
+~T,0.516385 -0.465903 3.313445 ,0.000000 90.000000 0.000000 ,0.150000 0.150000 0.150000 ,none,~4,Ceiling,0,2,Ceiling_Material.034/Ceiling_Material.034/,
+***
+Ceiling4
+1
+~T,-5.391862 -0.465903 10.367560 ,0.000000 90.000000 0.000000 ,0.100000 0.150000 0.170000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling41
+1
+~T,-0.586392 -0.465903 9.275206 ,0.000000 90.000000 0.000000 ,0.100000 0.150000 0.150000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling410
+1
+~T,-5.391862 -0.465903 12.756853 ,0.000000 90.000000 0.000000 ,0.100000 0.150000 0.170000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling411
+1
+~T,-5.391862 -0.465903 11.963335 ,0.000000 90.000000 0.000000 ,0.100000 0.150000 0.170000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling412
+1
+~T,-5.391862 -0.465903 11.163486 ,0.000000 90.000000 0.000000 ,0.100000 0.150000 0.170000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling42
+1
+~T,-3.038189 -0.465903 10.373016 ,0.000000 90.000000 0.000000 ,0.100000 0.150000 0.170000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling43
+1
+~T,-3.038189 -0.465903 11.173907 ,0.000000 90.000000 0.000000 ,0.100000 0.150000 0.170000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling44
+1
+~T,-3.038189 -0.465903 11.985536 ,0.000000 90.000000 0.000000 ,0.100000 0.150000 0.170000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling45
+1
+~T,-3.038189 -0.465903 12.798155 ,0.000000 90.000000 0.000000 ,0.100000 0.150000 0.170000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling46
+1
+~T,-3.038189 -0.465903 13.560130 ,0.000000 90.000000 0.000000 ,0.100000 0.150000 0.170000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling47
+1
+~T,-3.038189 -0.465903 14.350107 ,0.000000 90.000000 0.000000 ,0.100000 0.150000 0.170000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling48
+1
+~T,-15.969473 -0.465903 24.925671 ,0.000000 0.000000 0.000000 ,0.120000 0.150000 0.180000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling481
+1
+~T,-5.391862 -0.465903 14.350107 ,0.000000 90.000000 0.000000 ,0.100000 0.150000 0.170000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling4810
+1
+~T,-12.850105 -0.465903 21.207298 ,0.000000 90.000000 0.000000 ,0.110000 0.150000 0.170000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling4811
+1
+~T,-11.597797 -0.465903 21.207298 ,0.000000 90.000000 0.000000 ,0.110000 0.150000 0.170000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling4812
+1
+~T,-10.340779 -0.465903 21.207298 ,0.000000 90.000000 0.000000 ,0.110000 0.150000 0.170000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling4813
+1
+~T,-9.095481 -0.465903 21.207298 ,0.000000 90.000000 0.000000 ,0.110000 0.150000 0.170000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling4814
+1
+~T,-7.866642 -0.465903 21.207001 ,0.000000 90.000000 0.000000 ,0.110000 0.150000 0.170000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling4815
+1
+~T,-7.866642 -0.465903 20.318016 ,0.000000 90.000000 0.000000 ,0.110000 0.150000 0.170000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling4816
+1
+~T,-7.866642 -0.465903 19.428720 ,0.000000 90.000000 0.000000 ,0.110000 0.150000 0.170000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling4817
+1
+~T,-7.866642 -0.465903 18.546501 ,0.000000 90.000000 0.000000 ,0.110000 0.150000 0.170000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling4818
+1
+~T,-9.118286 -0.465903 18.546501 ,0.000000 90.000000 0.000000 ,0.110000 0.150000 0.170000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling4819
+1
+~T,-10.370576 -0.465903 18.546501 ,0.000000 90.000000 0.000000 ,0.110000 0.150000 0.170000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling482
+1
+~T,-7.859131 -0.465903 16.591175 ,0.000000 90.000000 0.000000 ,0.110000 0.150000 0.170000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling4820
+1
+~T,-11.620398 -0.465903 18.565001 ,0.000000 90.000000 0.000000 ,0.110000 0.150000 0.170000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling4821
+1
+~T,-11.620398 -0.465903 19.450001 ,0.000000 90.000000 0.000000 ,0.110000 0.150000 0.170000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling4822
+1
+~T,-11.620398 -0.465903 20.339001 ,0.000000 90.000000 0.000000 ,0.110000 0.150000 0.170000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling4823
+1
+~T,-10.373825 -0.465903 20.339001 ,0.000000 90.000000 0.000000 ,0.110000 0.150000 0.170000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling4824
+1
+~T,-10.373825 -0.465903 19.443171 ,0.000000 90.000000 0.000000 ,0.120000 0.150000 0.170000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling4825
+1
+~T,-9.118839 -0.465903 19.443171 ,0.000000 90.000000 0.000000 ,0.120000 0.150000 0.170000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling4826
+1
+~T,-9.118839 -0.465903 20.307661 ,0.000000 90.000000 0.000000 ,0.120000 0.150000 0.170000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling4827
+1
+~T,-23.223036 -0.465903 38.295513 ,0.000000 0.000000 0.000000 ,0.120000 0.150000 0.170000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling48271
+1
+~T,-15.969473 -0.465903 22.390059 ,0.000000 0.000000 0.000000 ,0.125000 0.150000 0.175000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling482710
+1
+~T,-23.223036 -0.465903 35.823784 ,0.000000 0.000000 0.000000 ,0.120000 0.150000 0.170000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling482711
+1
+~T,-23.223036 -0.465903 37.073292 ,0.000000 0.000000 0.000000 ,0.120000 0.150000 0.170000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling48272
+1
+~T,-18.866800 -0.465903 23.623396 ,0.000000 0.000000 0.000000 ,0.120000 0.150000 0.170000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling482721
+1
+~T,-16.936529 -0.465903 22.383224 ,0.000000 0.000000 0.000000 ,0.120000 0.150000 0.170000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling482722
+1
+~T,-18.875553 -0.465903 22.383224 ,0.000000 0.000000 0.000000 ,0.120000 0.150000 0.170000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling482723
+1
+~T,-17.904852 -0.465903 22.383224 ,0.000000 0.000000 0.000000 ,0.120000 0.150000 0.170000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling482724
+1
+~T,-18.872587 -0.465903 24.918724 ,0.000000 0.000000 0.000000 ,0.120000 0.150000 0.180000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling4827241
+1
+~T,-17.904852 -0.465903 23.623396 ,0.000000 0.000000 0.000000 ,0.120000 0.150000 0.170000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling4827242
+1
+~T,-17.904852 -0.465903 24.918724 ,0.000000 0.000000 0.000000 ,0.120000 0.150000 0.180000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling482725
+1
+~T,-16.944059 -0.465903 21.151348 ,0.000000 0.000000 0.000000 ,0.120000 0.150000 0.170000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling4827251
+1
+~T,-18.866800 -0.465903 21.151348 ,0.000000 0.000000 0.000000 ,0.120000 0.150000 0.170000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling4827252
+1
+~T,-17.895319 -0.465903 21.151348 ,0.000000 0.000000 0.000000 ,0.120000 0.150000 0.170000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling48273
+1
+~T,-16.936529 -0.465903 24.927286 ,0.000000 0.000000 0.000000 ,0.120000 0.150000 0.180000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling48274
+1
+~T,-16.936529 -0.465903 23.634138 ,0.000000 0.000000 0.000000 ,0.120000 0.150000 0.170000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling48275
+1
+~T,-22.268101 -0.465903 32.071999 ,0.000000 0.000000 0.000000 ,0.120000 0.150000 0.170000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling482751
+1
+~T,-22.268000 -0.465903 30.819077 ,0.000000 0.000000 0.000000 ,0.120000 0.150000 0.170000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling482752
+1
+~T,-22.268101 -0.465903 33.327000 ,0.000000 0.000000 0.000000 ,0.120000 0.150000 0.170000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling4827521
+1
+~T,-22.268101 -0.465903 35.824001 ,0.000000 0.000000 0.000000 ,0.120000 0.150000 0.170000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling48275211
+1
+~T,-22.268101 -0.465903 34.570999 ,0.000000 0.000000 0.000000 ,0.120000 0.150000 0.170000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling482752111
+1
+~T,-22.268101 -0.465903 38.296001 ,0.000000 0.000000 0.000000 ,0.120000 0.150000 0.170000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling4827521111
+1
+~T,-22.268101 -0.465903 37.073002 ,0.000000 0.000000 0.000000 ,0.120000 0.150000 0.170000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling48276
+1
+~T,-24.950605 -0.465903 38.292568 ,0.000000 0.000000 0.000000 ,0.120000 0.150000 0.170000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling482761
+1
+~T,-23.223036 -0.465903 30.819077 ,0.000000 0.000000 0.000000 ,0.120000 0.150000 0.170000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling482762
+1
+~T,-24.950605 -0.465903 30.819077 ,0.000000 0.000000 0.000000 ,0.120000 0.150000 0.170000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling482763
+1
+~T,-24.950605 -0.465903 32.067959 ,0.000000 0.000000 0.000000 ,0.120000 0.150000 0.170000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling482764
+1
+~T,-24.950605 -0.465903 33.315739 ,0.000000 0.000000 0.000000 ,0.120000 0.150000 0.170000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling482765
+1
+~T,-24.950605 -0.465903 34.569107 ,0.000000 0.000000 0.000000 ,0.120000 0.150000 0.170000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling482766
+1
+~T,-24.950605 -0.465903 35.818645 ,0.000000 0.000000 0.000000 ,0.120000 0.150000 0.170000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling482767
+1
+~T,-24.950605 -0.465903 37.063213 ,0.000000 0.000000 0.000000 ,0.120000 0.150000 0.170000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling48277
+1
+~T,-23.223036 -0.465903 32.071941 ,0.000000 0.000000 0.000000 ,0.120000 0.150000 0.170000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling48278
+1
+~T,-23.223036 -0.465903 33.326679 ,0.000000 0.000000 0.000000 ,0.120000 0.150000 0.170000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling48279
+1
+~T,-23.223036 -0.465903 34.570850 ,0.000000 0.000000 0.000000 ,0.120000 0.150000 0.170000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling4828
+1
+~T,-15.969473 -0.465903 23.639851 ,0.000000 0.000000 0.000000 ,0.120000 0.150000 0.170000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling483
+1
+~T,-9.114297 -0.465903 16.591175 ,0.000000 90.000000 0.000000 ,0.110000 0.150000 0.170000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling484
+1
+~T,-10.348777 -0.465903 16.591175 ,0.000000 90.000000 0.000000 ,0.110000 0.150000 0.170000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling485
+1
+~T,-11.595755 -0.465903 16.591175 ,0.000000 90.000000 0.000000 ,0.110000 0.150000 0.170000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling486
+1
+~T,-12.850105 -0.465903 16.591175 ,0.000000 90.000000 0.000000 ,0.110000 0.150000 0.170000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling487
+1
+~T,-12.850105 -0.465903 18.565090 ,0.000000 90.000000 0.000000 ,0.110000 0.150000 0.170000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling488
+1
+~T,-12.850105 -0.465903 19.449867 ,0.000000 90.000000 0.000000 ,0.110000 0.150000 0.170000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling489
+1
+~T,-12.850105 -0.465903 20.339396 ,0.000000 90.000000 0.000000 ,0.110000 0.150000 0.170000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Ceiling49
+1
+~T,-5.391862 -0.465903 13.567451 ,0.000000 90.000000 0.000000 ,0.100000 0.150000 0.170000 ,none,~4,Ceiling1,0,1,Ceiling_Material.034/,
+***
+Console
+1
+~T,-4.917689 -1.430969 12.025508 ,0.000000 90.000000 0.000000 ,0.005000 0.005000 0.005000 ,none,~4,model,0,9,model_lambert1/ConsoleMat1/model_lambert1/Door1/Door1/Door1/Door1/Door1/Door1/,
+***
+Console1
+1
+~T,0.933509 -1.574197 7.460300 ,0.000000 -90.000000 0.000000 ,0.005000 0.005000 0.005000 ,none,~4,model,0,9,model_lambert1/ConsoleMat1/model_lambert1/Door1/Door1/Door1/Door1/Door1/Door1/,
+***
+Console2
+1
+~T,-4.917689 -1.430969 13.689886 ,0.000000 90.000000 0.000000 ,0.005000 0.005000 0.005000 ,none,~4,model,0,9,model_lambert1/ConsoleMat1/model_lambert1/Door1/Door1/Door1/Door1/Door1/Door1/,
+***
+Crate
+1
+~T,-0.742149 -1.150830 6.276808 ,0.000000 0.000000 -72.019363 ,0.075000 0.075000 0.075000 ,none,~4,Capsule1,0,2,Capsule1_aiStandardSurface1/Capsule1_blinn1/,
+***
+Crate1
+1
+~T,1.150290 -1.251313 9.123116 ,0.000000 0.000000 0.000000 ,0.050000 0.050000 0.050000 ,none,~4,crate_light,0,1,CrateMat/,
+***
+Crate2
+1
+~T,-2.555469 -1.251313 11.941891 ,0.000000 -46.000000 0.000000 ,0.050000 0.050000 0.050000 ,none,~4,crate_light,0,1,CrateMat/,
+***
+Crate21
+1
+~T,-4.492966 -1.003087 7.103709 ,0.000000 0.000000 0.000000 ,0.050000 0.050000 0.050000 ,none,~4,crate_light,0,1,CrateMat/,
+***
+Crate211
+1
+~T,0.915657 -1.251313 9.123116 ,0.000000 0.000000 0.000000 ,0.050000 0.050000 0.050000 ,none,~4,crate_light,0,1,CrateMat/,
+***
+Crate212
+1
+~T,1.790005 -1.251313 6.338500 ,0.000000 0.000000 0.000000 ,0.100000 0.100000 0.100200 ,none,~4,crate_light,0,1,CrateMat/,
+***
+Crate213
+1
+~T,-4.474363 -1.251313 7.118903 ,0.000000 0.000000 0.000000 ,0.050000 0.050000 0.050000 ,none,~4,crate_light,0,1,CrateMat/,
+***
+Crate214
+1
+~T,-4.474363 -1.251313 7.307390 ,0.000000 0.000000 0.000000 ,0.050000 0.050000 0.050000 ,none,~4,crate_light,0,1,CrateMat/,
+***
+Crate215
+1
+~T,-4.248971 -1.251313 7.103709 ,0.000000 0.000000 0.000000 ,0.050000 0.050000 0.050000 ,none,~4,crate_light,0,1,CrateMat/,
+***
+Crate221
+1
+~T,-3.772927 -1.251313 13.451743 ,0.000000 0.000000 0.000000 ,0.075000 0.075000 0.075000 ,none,~4,crate_light,0,1,CrateMat/,
+***
+Crate2211
+1
+~T,-2.405692 -1.251313 12.470243 ,0.000000 -34.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,crate_light,0,1,CrateMat/,
+***
+Crate2212
+1
+~T,-4.150918 -1.251313 12.857059 ,0.000000 0.000000 0.000000 ,0.085000 0.085000 0.085000 ,none,~4,crate_light,0,1,CrateMat/,
+***
+Crate2213
+1
+~T,-4.150918 -1.251313 13.318679 ,0.000000 0.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,crate_light,0,1,CrateMat/,
+***
+Crate222
+1
+~T,-8.088632 -1.251313 19.174963 ,0.000000 0.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,crate_light,0,1,CrateMat/,~6,1,2.000000 2.000000 2.000000 ,-0.080000 0.200000 -0.100000 ,0.500000,0.500000,0.600000,0,
+***
+Crate2221
+1
+~T,-16.623014 -1.251313 23.686462 ,0.000000 0.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,crate_light,0,1,CrateMat/,~6,1,2.000000 2.000000 2.000000 ,-0.080000 0.200000 -0.100000 ,0.500000,0.500000,0.600000,0,
+***
+Crate22211
+1
+~T,-11.496491 -1.251313 19.709078 ,0.000000 0.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,crate_light,0,1,CrateMat/,~6,1,2.000000 2.000000 2.000000 ,-0.080000 0.200000 -0.100000 ,0.500000,0.500000,0.600000,0,
+***
+Crate222111
+1
+~T,-8.088632 -1.251313 19.615309 ,0.000000 0.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,crate_light,0,1,CrateMat/,~6,1,2.000000 2.000000 2.000000 ,-0.080000 0.200000 -0.100000 ,0.500000,0.500000,0.600000,0,
+***
+Crate222112
+1
+~T,-8.088632 -1.251313 20.038296 ,0.000000 0.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,crate_light,0,1,CrateMat/,~6,1,2.000000 2.000000 2.000000 ,-0.080000 0.200000 -0.100000 ,0.500000,0.500000,0.600000,0,
+***
+Crate22212
+1
+~T,-9.746243 -1.251313 20.308308 ,0.000000 0.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,crate_light,0,1,CrateMat/,~6,1,2.000000 2.000000 2.000000 ,-0.080000 0.200000 -0.100000 ,0.500000,0.500000,0.600000,0,
+***
+Crate22213
+1
+~T,-10.203761 -1.251313 20.308308 ,0.000000 0.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,crate_light,0,1,CrateMat/,~6,1,2.000000 2.000000 2.000000 ,-0.080000 0.200000 -0.100000 ,0.500000,0.500000,0.600000,0,
+***
+Crate22214
+1
+~T,-23.247829 -1.251313 30.663500 ,0.000000 0.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,crate_light,0,1,CrateMat/,~6,1,2.000000 2.000000 2.000000 ,-0.080000 0.200000 -0.100000 ,0.500000,0.500000,0.600000,0,
+***
+Crate222141
+1
+~T,-11.496491 -1.251313 19.114719 ,0.000000 0.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,crate_light,0,1,CrateMat/,~6,1,2.000000 2.000000 2.000000 ,-0.080000 0.200000 -0.100000 ,0.500000,0.500000,0.600000,0,
+***
+Crate222142
+1
+~T,-17.042137 -1.251313 23.700830 ,0.000000 0.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,crate_light,0,1,CrateMat/,~6,1,2.000000 2.000000 2.000000 ,-0.080000 0.200000 -0.100000 ,0.500000,0.500000,0.600000,0,
+***
+Crate222143
+1
+~T,-17.484991 -1.251313 23.700830 ,0.000000 0.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,crate_light,0,1,CrateMat/,~6,1,2.000000 2.000000 2.000000 ,-0.080000 0.200000 -0.100000 ,0.500000,0.500000,0.600000,0,
+***
+Crate222144
+1
+~T,-21.947414 -1.251313 34.119091 ,0.000000 0.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,crate_light,0,1,CrateMat/,~6,1,2.000000 2.000000 2.000000 ,-0.080000 0.200000 -0.100000 ,0.500000,0.500000,0.600000,0,
+***
+Crate2221441
+1
+~T,-24.264259 -1.251313 34.775871 ,0.000000 0.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,crate_light,0,1,CrateMat/,~6,1,2.000000 2.000000 2.000000 ,-0.080000 0.200000 -0.100000 ,0.500000,0.500000,0.600000,0,
+***
+Crate2221442
+1
+~T,-23.803444 -1.251313 34.119091 ,0.000000 0.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,crate_light,0,1,CrateMat/,~6,1,2.000000 2.000000 2.000000 ,-0.080000 0.200000 -0.100000 ,0.500000,0.500000,0.600000,0,
+***
+Crate2221443
+1
+~T,-23.355738 -1.251313 34.119091 ,0.000000 0.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,crate_light,0,1,CrateMat/,~6,1,2.000000 2.000000 2.000000 ,-0.080000 0.200000 -0.100000 ,0.500000,0.500000,0.600000,0,
+***
+Crate2221444
+1
+~T,-22.893518 -1.251313 34.119091 ,0.000000 0.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,crate_light,0,1,CrateMat/,~6,1,2.000000 2.000000 2.000000 ,-0.080000 0.200000 -0.100000 ,0.500000,0.500000,0.600000,0,
+***
+Crate2221445
+1
+~T,-22.449133 -1.251313 34.119091 ,0.000000 0.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,crate_light,0,1,CrateMat/,~6,1,2.000000 2.000000 2.000000 ,-0.080000 0.200000 -0.100000 ,0.500000,0.500000,0.600000,0,
+***
+Crate222145
+1
+~T,-23.694122 -1.251313 30.710976 ,0.000000 0.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,crate_light,0,1,CrateMat/,~6,1,2.000000 2.000000 2.000000 ,-0.080000 0.200000 -0.100000 ,0.500000,0.500000,0.600000,0,
+***
+Crate2221451
+1
+~T,-23.694122 -1.251313 31.223143 ,0.000000 0.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,crate_light,0,1,CrateMat/,~6,1,2.000000 2.000000 2.000000 ,-0.080000 0.200000 -0.100000 ,0.500000,0.500000,0.600000,0,
+***
+Crate222146
+1
+~T,-23.260893 -1.251313 31.113066 ,0.000000 0.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,crate_light,0,1,CrateMat/,~6,1,2.000000 2.000000 2.000000 ,-0.080000 0.200000 -0.100000 ,0.500000,0.500000,0.600000,0,
+***
+Crate3
+1
+~T,0.692970 -1.251313 9.123116 ,0.000000 0.000000 0.000000 ,0.050000 0.050000 0.050000 ,none,~4,crate_light,0,1,CrateMat/,
+***
+Crate4
+1
+~T,-5.177708 -1.291628 10.259721 ,0.000000 0.000000 0.000000 ,0.050000 0.050000 0.050000 ,none,~4,crate_light,0,1,CrateMat/,
+***
+Crate41
+1
+~T,-0.455448 -1.251313 9.123116 ,0.000000 0.000000 0.000000 ,0.050000 0.050000 0.050000 ,none,~4,crate_light,0,1,CrateMat/,
+***
+Crate42
+1
+~T,-2.709794 -1.257019 10.328710 ,0.000000 0.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,crate_light,0,1,CrateMat/,
+***
+Crate43
+1
+~T,-5.374287 -1.257019 10.328710 ,0.000000 0.000000 0.000000 ,0.050000 0.050000 0.050000 ,none,~4,crate_light,0,1,CrateMat/,
+***
+Crate44
+1
+~T,-5.371411 -1.024183 10.328710 ,0.000000 0.000000 0.000000 ,0.050000 0.050000 0.050000 ,none,~4,crate_light,0,1,CrateMat/,
+***
+Crate5
+1
+~T,1.297174 -1.251313 6.247014 ,0.000000 0.000000 -20.508049 ,0.075000 0.075000 0.075000 ,none,~4,Capsule1,0,2,Capsule1_aiStandardSurface1/Capsule1_blinn1/,
+***
+Crate51
+1
+~T,-0.662946 -1.251313 6.409283 ,0.000000 0.000000 0.000000 ,0.075000 0.075000 0.075000 ,none,~4,Capsule1,0,2,Capsule1_aiStandardSurface1/Capsule1_blinn1/,
+***
+Crate6
+1
+~T,-5.281050 -1.281160 14.305575 ,0.000000 180.000000 0.000000 ,0.150000 0.150000 0.150000 ,none,~4,Capsule2,0,1,Capsule2_Capsule/,
+***
+Crate61
+1
+~T,-11.605030 -1.251313 19.320330 ,0.000000 0.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,Capsule1,0,2,Capsule1_aiStandardSurface1/Capsule1_blinn1/,~6,1,0.600000 2.400000 0.600000 ,0.000000 0.200000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+Crate611
+1
+~T,-3.998043 -1.277057 12.967896 ,0.000000 0.000000 0.000000 ,0.080000 0.080000 0.080000 ,none,~4,Capsule1,0,2,Capsule1_aiStandardSurface1/Capsule1_blinn1/,
+***
+Crate6111
+1
+~T,-3.259129 -1.238857 10.227674 ,0.000000 0.000000 -25.000000 ,0.100000 0.100000 0.100000 ,none,~4,Capsule1,0,2,Capsule1_aiStandardSurface1/Capsule1_blinn1/,
+***
+Crate6112
+1
+~T,-3.942815 -1.277057 13.116519 ,0.000000 0.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,Capsule1,0,2,Capsule1_aiStandardSurface1/Capsule1_blinn1/,
+***
+Crate6113
+1
+~T,-3.756670 -1.277057 13.116300 ,0.000000 0.000000 0.000000 ,0.080000 0.080000 0.080000 ,none,~4,Capsule1,0,2,Capsule1_aiStandardSurface1/Capsule1_blinn1/,
+***
+Crate62
+1
+~T,1.549101 -1.281160 9.092002 ,0.000000 180.000000 0.000000 ,0.150000 0.150000 0.150000 ,none,~4,Capsule2,0,1,Capsule2_Capsule/,
+***
+Crate621
+1
+~T,0.103594 -1.281160 9.092002 ,0.000000 180.000000 0.000000 ,0.150000 0.150000 0.150000 ,none,~4,Capsule2,0,1,Capsule2_Capsule/,
+***
+Crate63
+1
+~T,-3.490672 -1.281160 14.290333 ,0.000000 180.000000 0.000000 ,0.150000 0.150000 0.150000 ,none,~4,Capsule2,0,1,Capsule2_Capsule/,
+***
+Crate631
+1
+~T,-4.939492 -1.281160 14.305575 ,0.000000 180.000000 0.000000 ,0.150000 0.150000 0.150000 ,none,~4,Capsule2,0,1,Capsule2_Capsule/,
+***
+Crate632
+1
+~T,-2.800000 -1.258400 14.305575 ,-180.000000 -0.000003 153.434891 ,0.150000 0.150000 0.150000 ,none,~4,Capsule2,0,1,Capsule2_Capsule/,
+***
+Crate633
+1
+~T,-3.112938 -1.281160 14.290333 ,0.000000 180.000000 0.000000 ,0.150000 0.150000 0.150000 ,none,~4,Capsule2,0,1,Capsule2_Capsule/,
+***
+Crate64
+1
+~T,-5.646290 -1.281160 14.305575 ,0.000000 180.000000 0.000000 ,0.150000 0.150000 0.150000 ,none,~4,Capsule2,0,1,Capsule2_Capsule/,
+***
+Crate8
+1
+~T,-9.289519 -1.251313 20.302729 ,0.000000 0.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,crate_light,0,1,CrateMat/,~6,1,2.000000 2.000000 2.000000 ,-0.080000 0.200000 -0.100000 ,0.500000,0.500000,0.600000,0,
+***
+DecorCollider
+1
+~T,1.549747 -0.932832 9.223014 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,none,~6,1,0.150000 0.300000 0.250000 ,0.000000 0.000000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+DecorCollider1
+1
+~T,1.621807 -1.021397 6.162817 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,none,~6,1,0.300000 0.200000 0.200000 ,0.000000 0.000000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+DecorCollider2
+1
+~T,0.893471 -1.177851 9.164937 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,none,~6,1,0.350000 0.250000 0.100000 ,0.000000 0.050000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+DecorCollider3
+1
+~T,-4.479144 -1.061340 7.004133 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,none,~6,1,0.150000 0.200000 0.200000 ,0.000000 0.000000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+DecorCollider31
+1
+~T,-0.574897 -1.061340 6.279156 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,none,~6,1,0.150000 0.200000 0.100000 ,0.000000 0.000000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+DecorCollider4
+1
+~T,-0.509007 -1.166906 9.140257 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,none,~6,1,0.120000 0.120000 0.120000 ,0.000000 0.000000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+DecorCollider41
+1
+~T,-5.338305 -1.016505 10.185055 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,none,~6,1,0.200000 0.300000 0.200000 ,0.000000 0.000000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+DecorCollider411
+1
+~T,0.099794 -0.932832 9.103101 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,none,~6,1,0.150000 0.300000 0.250000 ,0.000000 0.000000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+DecorCollider412
+1
+~T,-2.681177 -1.071298 10.140423 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,none,~6,1,0.500000 0.300000 0.150000 ,0.000000 0.000000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+DecorCollider4121
+1
+~T,-3.032596 -0.932832 14.441902 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,none,~6,1,0.600000 0.400000 0.250000 ,0.000000 0.000000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+DecorCollider41211
+1
+~T,-5.257315 -0.932832 14.441902 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,none,~6,1,0.450000 0.300000 0.250000 ,0.000000 0.000000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+DecorCollider4122
+1
+~T,-3.978327 -1.115508 13.123873 ,0.000000 -87.000000 0.000000 ,1.000000 1.000000 1.000000 ,none,~6,1,0.250000 0.150000 0.100000 ,0.000000 0.000000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+DecorCollider41221
+1
+~T,-5.614131 -0.932832 12.698183 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,none,~6,1,0.100000 0.400000 0.100000 ,0.000000 0.000000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+DecorCollider41222
+1
+~T,-4.224839 -1.115508 12.789783 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,none,~6,1,0.200000 0.200000 0.200000 ,0.000000 0.000000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+DecorCollider41223
+1
+~T,-4.224839 -1.115508 13.209871 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,none,~6,1,0.220000 0.220000 0.220000 ,0.000000 0.000000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+DecorCollider41224
+1
+~T,-3.851950 -1.115508 13.384843 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,none,~6,1,0.150000 0.150000 0.150000 ,0.000000 0.000000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+DecorCollider41225
+1
+~T,-3.922057 -1.115508 13.120924 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,none,~6,1,0.250000 0.150000 0.100000 ,0.000000 0.000000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+DecorCollider4123
+1
+~T,-5.614131 -0.932832 12.026371 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,none,~6,1,0.100000 0.400000 0.100000 ,0.000000 0.000000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+DecorCollider4124
+1
+~T,-2.548578 -0.932832 11.014023 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,none,~6,1,0.100000 0.400000 0.100000 ,0.000000 0.000000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+EndSpot
+1
+~T,-24.120525 -0.801236 43.797218 ,0.000000 106.000000 -90.000000 ,1.000000 1.000000 1.000000 ,none,~3,0.909091 0.467348 0.118064 1.000000 ,5.000000,0,0.000000 -0.961262 -0.275637 ,-24.120525 -0.801236 43.797218 ,10.000000,20.000000,0.000000,~8,AlarmLight,20.000000,180.000000,
+***
+EndSpot1
+1
+~T,-24.116245 -0.935442 43.740314 ,0.000000 114.000000 90.000000 ,1.000000 1.000000 1.000000 ,none,~3,0.909091 0.467348 0.118064 1.000000 ,5.000000,0,-0.000000 0.913545 -0.406737 ,-24.116245 -0.935442 43.740314 ,10.000000,20.000000,0.000000,~8,AlarmLight,20.000000,180.000000,
+***
+Generator
+1
+~T,-2.670651 -1.275457 11.011397 ,0.000000 0.000000 0.000000 ,0.065000 0.065000 0.065000 ,none,~4,generator,0,1,generator_initialShadingGroup/,
+***
+Generator1
+1
+~T,-5.605438 -1.275457 12.681330 ,0.000000 0.000000 0.000000 ,0.065000 0.065000 0.065000 ,none,~4,generator,0,1,generator_initialShadingGroup/,
+***
+Generator2
+1
+~T,-5.605438 -1.275457 12.026489 ,0.000000 0.000000 0.000000 ,0.065000 0.065000 0.065000 ,none,~4,generator,0,1,generator_initialShadingGroup/,
+***
+Ground
+1
+~T,0.588656 -0.920602 1.495626 ,0.000000 0.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,Door,0,2,Door2/Door1/,
+***
+Ground 1
+1
+~T,0.146583 -1.291298 2.637434 ,0.000000 0.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,Ground,0,2,Ground_Material.005/Ground_Material.019/,
+***
+Ground 10
+1
+~T,1.644254 -1.304782 7.681477 ,0.000000 0.000000 0.000000 ,0.100000 0.100000 0.120000 ,none,~4,Tiles,0,2,Tiles_Material.019/Ground_Material.019/,
+***
+Ground 101
+1
+~T,1.278343 -1.304782 7.681477 ,0.000000 0.000000 0.000000 ,0.100000 0.100000 0.120000 ,none,~4,Tiles,0,2,Tiles_Material.019/Ground_Material.019/,
+***
+Ground 11
+1
+~T,0.464596 -1.304782 6.288734 ,0.000000 90.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,Tiles,0,2,Tiles_Material.019/Ground_Material.019/,
+***
+Ground 12
+1
+~T,0.465000 -1.304782 6.992377 ,0.000000 90.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,Tiles,0,2,Tiles_Material.019/Ground_Material.019/,
+***
+Ground 13
+1
+~T,0.465000 -1.304782 7.664952 ,0.000000 90.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,Tiles,0,2,Tiles_Material.019/Ground_Material.019/,
+***
+Ground 14
+1
+~T,-0.535199 -1.304782 6.296070 ,0.000000 90.000000 0.000000 ,0.140000 0.100000 0.120000 ,none,~4,Tiles,0,2,Tiles_Material.019/Ground_Material.019/,
+***
+Ground 15
+1
+~T,-0.540479 -1.304782 7.000407 ,0.000000 90.000000 0.000000 ,0.100000 0.100000 0.120000 ,none,~4,Tiles,0,2,Tiles_Material.019/Ground_Material.019/,
+***
+Ground 16
+1
+~T,-0.510811 -1.304782 8.362432 ,0.000000 90.000000 0.000000 ,0.100000 0.100000 0.120000 ,none,~4,Tiles,0,2,Tiles_Material.019/Ground_Material.019/,
+***
+Ground 17
+1
+~T,1.424289 -1.304782 8.372735 ,0.000000 90.000000 0.000000 ,0.100000 0.100000 0.120000 ,none,~4,Tiles,0,2,Tiles_Material.019/Ground_Material.019/,
+***
+Ground 18
+1
+~T,0.145115 -1.303432 5.385985 ,0.000000 0.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,Ground,0,2,Ground_Material.005/Ground_Material.019/,
+***
+Ground 19
+1
+~T,-0.512016 -1.304782 9.031122 ,0.000000 90.000000 0.000000 ,0.100000 0.100000 0.120000 ,none,~4,Tiles,0,2,Tiles_Material.019/Ground_Material.019/,
+***
+Ground 2
+1
+~T,0.155171 -1.297302 1.712393 ,0.000000 0.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,Ground,0,2,Ground_Material.005/Ground_Material.019/,
+***
+Ground 20
+1
+~T,1.448213 -1.304782 9.031122 ,0.000000 90.000000 0.000000 ,0.100000 0.100000 0.120000 ,none,~4,Tiles,0,2,Tiles_Material.019/Ground_Material.019/,
+***
+Ground 201
+1
+~T,0.465000 -1.304782 9.031122 ,0.000000 90.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,Tiles,0,2,Tiles_Material.019/Ground_Material.019/,
+***
+Ground 21
+1
+~T,-2.458182 -1.303432 7.786468 ,0.000000 90.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,Ground,0,2,Ground_Material.005/Ground_Material.019/,
+***
+Ground 2114
+1
+~T,-4.474816 -1.303432 9.390974 ,0.000000 0.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,Ground,0,2,Ground_Material.005/Ground_Material.019/,
+***
+Ground 2115
+1
+~T,-16.230288 -1.303432 18.700834 ,0.000000 0.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,Ground,0,2,Ground_Material.005/Ground_Material.019/,
+***
+Ground 21151
+1
+~T,-4.489504 -1.303432 14.825915 ,0.000000 0.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,Ground,0,2,Ground_Material.005/Ground_Material.019/,
+***
+Ground 21152
+1
+~T,-4.474816 -1.303432 15.737787 ,0.000000 0.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,Ground,0,2,Ground_Material.005/Ground_Material.019/,
+***
+Ground 21153
+1
+~T,-15.015591 -1.303432 17.906919 ,0.000000 90.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,Ground,0,2,Ground_Material.005/Ground_Material.019/,
+***
+Ground 211531
+1
+~T,-5.136569 -1.303432 17.906919 ,0.000000 90.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,Ground,0,2,Ground_Material.005/Ground_Material.019/,
+***
+Ground 211532
+1
+~T,-6.004544 -1.303432 17.906919 ,0.000000 90.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,Ground,0,2,Ground_Material.005/Ground_Material.019/,
+***
+Ground 211533
+1
+~T,-6.911927 -1.303432 17.906919 ,0.000000 90.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,Ground,0,2,Ground_Material.005/Ground_Material.019/,
+***
+Ground 211534
+1
+~T,-13.232861 -1.303432 17.906919 ,0.000000 90.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,Ground,0,2,Ground_Material.005/Ground_Material.019/,
+***
+Ground 211535
+1
+~T,-21.410530 -1.303432 29.932005 ,0.000000 90.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,Ground,0,2,Ground_Material.005/Ground_Material.019/,
+***
+Ground 2115351
+1
+~T,-14.129181 -1.303432 17.906919 ,0.000000 90.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,Ground,0,2,Ground_Material.005/Ground_Material.019/,
+***
+Ground 2115352
+1
+~T,-19.564974 -1.303432 29.939888 ,0.000000 90.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,Ground,0,2,Ground_Material.005/Ground_Material.019/,
+***
+Ground 2115353
+1
+~T,-20.483219 -1.303432 29.938972 ,0.000000 90.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,Ground,0,2,Ground_Material.005/Ground_Material.019/,
+***
+Ground 211536
+1
+~T,-14.129181 -1.303432 17.906919 ,0.000000 90.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,Ground,0,2,Ground_Material.005/Ground_Material.019/,
+***
+Ground 21154
+1
+~T,-4.475342 -1.303432 16.654440 ,0.000000 0.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,Ground,0,2,Ground_Material.005/Ground_Material.019/,
+***
+Ground 21155
+1
+~T,-23.753227 -1.303432 39.921078 ,0.000000 180.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,Ground,0,2,Ground_Material.005/Ground_Material.019/,
+***
+Ground 211551
+1
+~T,-16.230288 -1.303432 19.620480 ,0.000000 0.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,Ground,0,2,Ground_Material.005/Ground_Material.019/,
+***
+Ground 2115510
+1
+~T,-23.753227 -1.303432 41.789509 ,0.000000 180.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,Ground,0,2,Ground_Material.005/Ground_Material.019/,
+***
+Ground 2115511
+1
+~T,-23.753227 -1.303432 38.985550 ,0.000000 180.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,Ground,0,2,Ground_Material.005/Ground_Material.019/,
+***
+Ground 211552
+1
+~T,-15.555544 -1.303432 20.706635 ,0.000000 180.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,Ground,0,2,Ground_Material.005/Ground_Material.019/,
+***
+Ground 211553
+1
+~T,-17.807301 -1.303432 26.180681 ,0.000000 180.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,Ground,0,2,Ground_Material.005/Ground_Material.019/,
+***
+Ground 211554
+1
+~T,-17.807301 -1.303432 27.023813 ,0.000000 180.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,Ground,0,2,Ground_Material.005/Ground_Material.019/,
+***
+Ground 211555
+1
+~T,-17.807301 -1.303432 27.920462 ,0.000000 180.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,Ground,0,2,Ground_Material.005/Ground_Material.019/,
+***
+Ground 211556
+1
+~T,-17.807301 -1.303432 28.824364 ,0.000000 180.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,Ground,0,2,Ground_Material.005/Ground_Material.019/,
+***
+Ground 211557
+1
+~T,-23.753227 -1.303432 40.857258 ,0.000000 180.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,Ground,0,2,Ground_Material.005/Ground_Material.019/,
+***
+Ground 211558
+1
+~T,-23.753227 -1.303432 42.723557 ,0.000000 180.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,Ground,0,2,Ground_Material.005/Ground_Material.019/,
+***
+Ground 211559
+1
+~T,-23.753227 -1.303432 44.125156 ,0.000000 180.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,Ground,0,2,Ground_Material.005/Ground_Material.019/,
+***
+Ground 2115591
+1
+~T,-23.753227 -1.303432 43.635914 ,0.000000 180.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,Ground,0,2,Ground_Material.005/Ground_Material.019/,
+***
+Ground 2116
+1
+~T,-2.027172 -1.303432 12.578831 ,0.000000 90.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,Ground,0,2,Ground_Material.005/Ground_Material.019/,
+***
+Ground 24
+1
+~T,-3.401208 -1.303432 7.786468 ,0.000000 90.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,Ground,0,2,Ground_Material.005/Ground_Material.019/,
+***
+Ground 25
+1
+~T,-1.527402 -1.303432 7.786468 ,0.000000 90.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,Ground,0,2,Ground_Material.005/Ground_Material.019/,
+***
+Ground 26
+1
+~T,-4.477612 -1.303432 8.458010 ,0.000000 0.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,Ground,0,2,Ground_Material.005/Ground_Material.019/,
+***
+Ground 27
+1
+~T,-1.119393 -1.303432 12.578831 ,0.000000 90.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,Ground,0,2,Ground_Material.005/Ground_Material.019/,
+***
+Ground 28
+1
+~T,-18.383698 -1.304782 29.601475 ,0.000000 90.000000 0.000000 ,0.140000 0.100000 0.140000 ,none,~4,Tiles,0,2,Tiles_Material.019/Ground_Material.019/,
+***
+Ground 281
+1
+~T,-4.164117 -1.304782 7.322145 ,0.000000 0.000000 0.000000 ,0.140000 0.100000 0.170000 ,none,~4,Tiles,0,2,Tiles_Material.019/Ground_Material.019/,
+***
+Ground 282
+1
+~T,-4.082288 -1.304782 17.633774 ,0.000000 0.000000 0.000000 ,0.140000 0.100000 0.100000 ,none,~4,Tiles,0,2,Tiles_Material.019/Ground_Material.019/,
+***
+Ground 283
+1
+~T,-15.861005 -1.304782 17.710720 ,0.000000 0.000000 0.000000 ,0.140000 0.100000 0.140000 ,none,~4,Tiles,0,2,Tiles_Material.019/Ground_Material.019/,
+***
+Ground 3
+1
+~T,0.145115 -1.295930 3.555889 ,0.000000 0.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,Ground,0,2,Ground_Material.005/Ground_Material.019/,
+***
+Ground 4
+1
+~T,0.145115 -1.303432 4.451419 ,0.000000 0.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,Ground,0,2,Ground_Material.005/Ground_Material.019/,
+***
+Ground 5
+1
+~T,-23.476578 -1.304782 33.806660 ,0.000000 0.000000 0.000000 ,0.500000 0.100000 1.000000 ,none,~4,Tiles,0,2,Tiles_Material.019/Ground_Material.019/,
+***
+Ground 51
+1
+~T,-0.516992 -1.304782 7.697047 ,0.000000 90.000000 0.000000 ,0.100000 0.100000 0.120000 ,none,~4,Tiles,0,2,Tiles_Material.019/Ground_Material.019/,
+***
+Ground 52
+1
+~T,-4.121724 -1.304782 12.243296 ,0.000000 0.000000 0.000000 ,0.500000 0.100000 0.500000 ,none,~4,Tiles,0,2,Tiles_Material.019/Ground_Material.019/,
+***
+Ground 53
+1
+~T,-9.861045 -1.304782 18.862963 ,0.000000 0.000000 0.000000 ,0.800000 0.100000 0.600000 ,none,~4,Tiles,0,2,Tiles_Material.019/Ground_Material.019/,
+***
+Ground 54
+1
+~T,-17.176071 -1.304782 23.312431 ,0.000000 0.000000 0.000000 ,0.500000 0.100000 0.500000 ,none,~4,Tiles,0,2,Tiles_Material.019/Ground_Material.019/,
+***
+Ground 7
+1
+~T,-0.049000 -1.304782 12.247349 ,0.000000 0.000000 0.000000 ,0.150000 0.100000 0.150000 ,none,~4,Tiles,0,2,Tiles_Material.019/Ground_Material.019/,
+***
+Ground 71
+1
+~T,0.465000 -1.304782 8.367728 ,0.000000 90.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,Tiles,0,2,Tiles_Material.019/Ground_Material.019/,
+***
+Ground 8
+1
+~T,1.477461 -1.304782 6.296070 ,0.000000 90.000000 0.000000 ,0.100000 0.100000 0.120000 ,none,~4,Tiles,0,2,Tiles_Material.019/Ground_Material.019/,
+***
+Ground 9
+1
+~T,1.444466 -1.304782 6.971747 ,0.000000 90.000000 0.000000 ,0.100000 0.100000 0.120000 ,none,~4,Tiles,0,2,Tiles_Material.019/Ground_Material.019/,
+***
+Ground1
+1
+~T,-24.118685 -1.021205 44.206593 ,0.000000 180.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,Door,0,2,Door2/Door1/,
+***
+GroundCollider
+1
+~T,-18.133421 -1.400401 27.403204 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,none,~6,1,0.500000 0.100000 1.800000 ,0.000000 0.000000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+GroundCollider 10
+1
+~T,-5.163017 -1.387296 17.601660 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,none,~6,1,1.750000 0.100000 0.500000 ,0.000000 0.000000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+GroundCollider 4
+1
+~T,-23.512089 -1.347566 33.450726 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,none,~6,1,1.800000 0.100000 4.700000 ,0.000000 0.000000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+GroundCollider 43
+1
+~T,-23.552923 -1.400401 33.570808 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,none,~6,1,1.800000 0.100000 4.700000 ,0.000000 0.000000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+GroundCollider 431
+1
+~T,-16.999388 -1.400401 23.246288 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,none,~6,1,1.800000 0.100000 2.400000 ,0.000000 0.000000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+GroundCollider 5
+1
+~T,-1.810034 -0.786673 12.265511 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,none,~6,1,0.500000 1.000000 0.500000 ,0.000000 0.000000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+GroundCollider 8
+1
+~T,-4.146934 -1.400401 12.291154 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,none,~6,1,1.800000 0.100000 2.400000 ,0.000000 0.000000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+GroundCollider 9
+1
+~T,-9.938005 -1.400401 18.867998 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,none,~6,1,2.800000 0.100000 3.000000 ,0.000000 0.000000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+GroundCollider1
+1
+~T,0.515841 -1.400401 7.671781 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,none,~6,1,1.750000 0.100000 1.750000 ,0.000000 0.000000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+GroundCollider2
+1
+~T,0.563831 -1.400401 3.429982 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,none,~6,1,0.500000 0.100000 2.500000 ,0.000000 0.000000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+GroundCollider3
+1
+~T,-4.065757 -1.400401 8.900877 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,none,~6,1,0.500000 0.100000 1.000000 ,0.000000 0.000000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+GroundCollider4
+1
+~T,-2.889328 -1.400401 7.388764 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,none,~6,1,1.750000 0.100000 0.500000 ,0.000000 0.000000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+GroundCollider5
+1
+~T,-19.664049 -1.400401 29.695093 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,none,~6,1,1.940000 0.100000 0.500000 ,0.000000 0.000000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+GroundCollider52
+1
+~T,-20.379549 -1.399958 29.598803 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,none,~6,1,1.400000 0.100000 0.500000 ,0.000000 0.000000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+GroundCollider521
+1
+~T,-14.582030 -1.400401 17.601660 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,none,~6,1,1.850000 0.100000 0.500000 ,0.000000 0.000000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+GroundCollider6
+1
+~T,-4.111430 -1.374640 15.841332 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,none,~6,1,0.500000 0.100000 1.300000 ,0.000000 0.000000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+GroundCollider7
+1
+~T,-24.038174 -1.400401 41.242340 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,none,~6,1,0.500000 0.100000 2.800000 ,0.000000 0.000000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+GroundCollider71
+1
+~T,-15.902475 -1.400401 19.565729 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,none,~6,1,0.500000 0.100000 1.500000 ,0.000000 0.000000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+GroundCollider72
+1
+~T,-18.182711 -1.400401 27.811798 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,none,~6,1,0.500000 0.100000 2.300000 ,0.000000 0.000000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+Lights
+1
+~T,0.000000 0.000000 0.000000 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,none,
+***
+PointLight Console1
+1
+~T,-0.960031 -0.902367 12.220294 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,Lights,~2,0.367965 0.000000 0.000022 ,10.000000,1,-0.960031 -0.902367 12.220294 ,0.100000,0.400000,0.320000,0.000000,~8,BlinkingLight,20.000000,0.000000,
+***
+PointLight Console
+1
+~T,1.457848 -0.896312 8.127951 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,Lights,~2,0.083956 0.178887 0.606061 ,3.000000,1,1.457848 -0.896312 8.127951 ,0.100000,0.400000,0.320000,0.000000,
+***
+PointLight Console2
+1
+~T,-4.347937 -0.787496 7.687059 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,Lights,~2,0.770563 0.181258 0.026686 ,0.500000,0,-4.347937 -0.787496 7.687059 ,0.100000,0.400000,0.320000,0.000000,
+***
+PointLight Console3
+1
+~T,-4.091711 -0.701237 17.452688 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,Lights,~2,0.770563 0.181258 0.026686 ,0.500000,0,-4.091711 -0.701237 17.452688 ,0.100000,0.400000,0.320000,0.000000,
+***
+PointLight 4
+1
+~T,-9.400865 -0.793490 19.636837 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,Lights,~2,0.419913 0.141788 0.000000 ,5.000000,1,-9.400865 -0.793490 19.636837 ,0.100000,0.400000,0.320000,0.000000,
+***
+PointLight 41
+1
+~T,-16.286770 -0.833129 23.970469 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,Lights,~2,0.406926 0.015854 0.015854 ,5.000000,1,-16.286770 -0.833129 23.970469 ,0.100000,0.400000,0.320000,0.000000,
+***
+PointLight 411
+1
+~T,-23.700720 -0.833129 32.760029 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,Lights,~2,0.419913 0.025449 0.025473 ,5.000000,1,-23.700720 -0.833129 32.760029 ,0.100000,0.400000,0.320000,0.000000,
+***
+PointLight 4111
+1
+~T,-18.178940 -0.833129 29.544765 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,Lights,~2,0.904762 0.117502 0.000000 ,1.000000,0,-18.178940 -0.833129 29.544765 ,0.100000,0.400000,0.320000,0.000000,
+***
+Monster
+1
+~T,-9.469326 -1.289162 18.840557 ,0.000000 0.000000 0.000000 ,0.004000 0.004000 0.004000 ,none,~4,ZombieWalking,0,2,Zombie Scream_Ch30_Body/Zombie Scream_Ch30_Body1/,~6,3,75.000000 75.000000 75.000000 ,0.000000 0.300000 0.000000 ,0.500000,0.500000,0.600000,0,~10,1,0,0,0.100000,30.000000,-9.469326 -1.289162 18.840557 ,8,footstep_1,footstep_2,footstep_3,footstep_4,footstep_5,footstep_6,footstep_7,mixkit-aggressive-beast-roar-13,~8,Monster,0.500000,4,-9.000000 -1.300000 18.000000 ,-10.500000 -1.300000 18.000000 ,-10.500000 -1.300000 20.000000 ,-9.000000 -1.300000 20.000000 ,~7,ZombieWalking_skeleton,3,ZombieWalking_anim0,NewZombieScream_anim0,newZombieRunning_anim0,
+***
+Monster1
+1
+~T,-15.932694 -1.289162 23.229736 ,0.000000 0.000000 0.000000 ,0.004000 0.004000 0.004000 ,none,~4,ZombieWalking,0,2,Zombie Scream_Ch30_Body/Zombie Scream_Ch30_Body1/,~6,3,75.000000 75.000000 75.000000 ,0.000000 0.300000 0.000000 ,0.500000,0.500000,0.600000,0,~10,1,0,0,0.100000,30.000000,-15.932694 -1.289162 23.229736 ,8,footstep_1,footstep_2,footstep_3,footstep_4,footstep_5,footstep_6,footstep_7,mixkit-aggressive-beast-roar-13,~8,Monster,0.500000,4,-16.000000 -1.300000 25.000000 ,-18.000000 -1.300000 25.000000 ,-18.000000 -1.300000 22.000000 ,-16.000000 -1.300000 22.000000 ,~7,ZombieWalking_skeleton,3,ZombieWalking_anim0,NewZombieScream_anim0,newZombieRunning_anim0,
+***
+Monster2
+1
+~T,-22.356537 -1.289162 29.693472 ,0.000000 0.000000 0.000000 ,0.004000 0.004000 0.004000 ,none,~4,ZombieWalking,0,2,Zombie Scream_Ch30_Body/Zombie Scream_Ch30_Body1/,~6,3,75.000000 75.000000 75.000000 ,0.000000 0.300000 0.000000 ,0.500000,0.500000,0.600000,0,~10,1,0,0,0.100000,30.000000,-22.356537 -1.289162 29.693472 ,8,footstep_1,footstep_2,footstep_3,footstep_4,footstep_5,footstep_6,footstep_7,mixkit-aggressive-beast-roar-13,~8,Monster,0.500000,4,-24.500000 -1.300000 29.700001 ,-24.500000 -1.300000 32.000000 ,-22.500000 -1.300000 32.000000 ,-22.500000 -1.300000 29.700001 ,~7,ZombieWalking_skeleton,3,ZombieWalking_anim0,NewZombieScream_anim0,newZombieRunning_anim0,
+***
+Plane 1
+1
+~T,-4.616008 -0.954212 7.336076 ,0.000000 0.000000 -90.000000 ,0.100000 0.100000 0.100000 ,none,~4,Plane,0,1,Blood/,
+***
+Plane 11
+1
+~T,0.047546 -0.954212 3.466710 ,0.000000 0.000000 -90.000000 ,0.100000 0.100000 0.100000 ,none,~4,Plane,0,1,Blood/,
+***
+Player
+1
+~T,0.556200 -1.306157 2.035591 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,none,~8,Move,1.000000,0.100000,~5,0,1,1.000000,0.000000,0.000000,0,0,0,1,1,1,0,0,~6,3,0.200000 0.150000 0.300000 ,0.000000 0.200000 0.000000 ,0.500000,0.500000,0.000000,0,~10,1,0,0,0.100000,30.000000,0.556200 -1.306157 2.035591 ,7,footstep_1,footstep_2,footstep_3,footstep_4,footstep_5,footstep_6,footstep_7,
+***
+Eye
+1
+~T,0.000050 0.321108 -0.000100 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,Player,~0,90.000000,1.777778,100.000000,0.010000,0.000000 0.000000 1.000000 ,..,~8,Look,3.000000,~9,
+***
+FlashLight
+1
+~T,-0.100000 -0.075000 0.043135 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,Eye,~4,Flashlight,0,1,Flashlight_M_Flashlight_V01/,~3,0.900433 0.582874 0.304042 1.000000 ,3.000000,1,0.000000 0.000000 1.000000 ,0.456250 -1.060049 2.078626 ,15.000000,30.000000,0.000000,~8,Flashlight,3.000000,0.250000,30.000000,0.150000,~10,1,0,0,0.100000,30.000000,0.456250 -1.060049 2.078626 ,3,FlashlightTurnOn,FlashlightTurnOff,Recharge,
+***
+Tool
+1
+~T,-0.100000 -0.075000 -0.015477 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,Eye,~8,Throw,0.750000,10.000000,30.000000,
+***
+Radio
+1
+~T,0.776346 -0.951597 9.070161 ,180.000000 0.000000 180.000000 ,0.200000 0.200000 0.100000 ,none,~4,radio,0,1,radio_01___Default/,~10,1,0,1,0.100000,5.000000,0.776346 -0.951597 9.070161 ,1,Voice_Com,
+***
+SoundMusic
+1
+~T,0.000000 0.000000 0.000000 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,none,~8,PlayMusic,0.200000,~10,0,1,0,0.100000,30.000000,0.000000 0.000000 0.000000 ,1,level_loop,
+***
+SoundTriggers
+1
+~T,0.000000 0.000000 0.000000 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,none,
+***
+Trigger1
+1
+~T,-2.659617 -0.868206 5.533350 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,SoundTriggers,~6,1,0.500000 0.500000 0.500000 ,0.000000 0.000000 1.800000 ,0.500000,0.500000,0.600000,1,~10,1,0,0,0.100000,30.000000,-2.659617 -0.868206 5.533350 ,1,crash2,~8,SoundTrigger,
+***
+Trigger2
+1
+~T,-3.942808 -0.967074 13.737836 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,SoundTriggers,~6,1,-2.500000 -1.500000 0.250000 ,0.000000 0.000000 0.000000 ,0.500000,0.500000,0.600000,1,~10,0,0,0,0.100000,30.000000,-3.942808 -0.967074 13.737836 ,1,IntenseHit,~8,SoundTrigger,
+***
+TestSound
+1
+~T,0.000000 0.000000 0.000000 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,none,~10,0,0,0,0.100000,30.000000,0.000000 0.000000 0.000000 ,2,Launch, ,
+***
+TextGrab
+1
+~T,0.000000 0.000000 0.000000 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,none,~11, ,1.000000,0.350000 0.110000 ,0.848485 0.526732 0.499541 1.000000 ,BLOODY,
+***
+TextGrab1
+1
+~T,0.000000 0.000000 0.000000 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,none,~11, ,1.000000,0.350000 0.110000 ,0.848485 0.526732 0.499541 1.000000 ,BLOODY,
+***
+ToolManager
+1
+~T,0.000000 0.000000 0.000000 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,none,~8,ToolManager,1.000000,
+***
+Tool1
+1
+~T,1.348371 -1.083887 8.266300 ,0.000000 0.000000 0.000000 ,0.200000 0.200000 0.200000 ,ToolManager,~4,wrench,0,1,wrench_vintage_wrench/,~8,Tool, ,~5,0,1,20.000000,4.000000,4.000000,0,0,0,0,0,0,0,0,~6,1,0.200000 0.200000 1.200000 ,0.000000 0.000000 0.000000 ,0.500000,0.500000,0.600000,0,~10,1,0,0,0.100000,30.000000,1.348371 -1.083887 8.266300 ,4,WrenchHit1,WrenchHit2,WrenchHit3,GetWrench,
+***
+UI Background
+1
+~T,0.000000 0.000000 0.000000 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,none,~12,BlackBackground,0.000000,0.000000 0.000000 ,1.000000 1.000000 ,~8,ImageFade,2.500000,
+***
+UIMenu
+0
+~T,0.000000 0.000000 0.000000 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,none,~12,BlackBackground,0.000000,0.000000 0.000000 ,1.000000 1.000000 ,
+***
+UIMenuText 
+0
+~T,0.000000 0.000000 0.000000 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,UIMenu,~11,Pause,2.000000,0.380000 0.750000 ,1.000000 0.999990 0.999990 1.000000 ,BLOODY,
+***
+UIMenu Text UI
+0
+~T,0.000000 0.000000 0.000000 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,UIMenu,~11,Press Enter to quit,1.500000,0.250000 0.300000 ,1.000000 0.999990 0.999990 1.000000 ,BLOODY,~8,PauseMenu,,
+***
+Wall 1
+1
+~T,0.026470 -1.000000 4.286341 ,0.000000 90.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.500000 ,0.000000 0.100000 -0.050000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 10
+1
+~T,0.948697 -1.000000 5.302716 ,0.000000 -90.000000 0.000000 ,0.150000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.300000 ,0.000000 0.100000 0.030000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 11
+1
+~T,1.530552 -1.000000 5.907808 ,0.000000 0.000000 0.000000 ,0.150000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.300000 ,0.000000 0.100000 0.030000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 12
+1
+~T,-2.929554 -1.000000 14.614408 ,0.000000 180.000000 0.000000 ,0.170000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.300000 ,-0.050000 0.120000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 1211
+1
+~T,-0.614100 -1.000000 5.860401 ,0.000000 0.000000 0.000000 ,0.150000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.100000 ,0.000000 0.100000 0.030000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 1212
+1
+~T,0.486061 -1.000000 1.475714 ,0.000000 0.000000 0.000000 ,0.150000 0.150000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.300000 ,0.000000 0.100000 0.030000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 122
+1
+~T,-6.515292 -1.000000 18.042763 ,0.000000 -900.000000 0.000000 ,0.150000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.500000 ,-0.050000 0.100000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 1221
+1
+~T,-1.857748 -1.000000 6.944405 ,0.000000 0.000000 0.000000 ,0.170000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.300000 ,0.050000 0.120000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 12210
+1
+~T,-3.667783 -1.000000 15.200946 ,0.000000 -90.000000 0.000000 ,0.150000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.500000 ,0.000000 0.100000 0.050000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 12211
+1
+~T,-3.667783 -1.000000 16.388405 ,0.000000 -90.000000 0.000000 ,0.150000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.500000 ,0.000000 0.100000 0.050000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 12212
+1
+~T,-12.765646 -1.000000 18.599319 ,0.000000 90.000000 0.000000 ,0.150000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.500000 ,0.000000 0.100000 -0.050000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 122121
+1
+~T,-3.667783 -1.000000 17.596451 ,0.000000 -90.000000 0.000000 ,0.150000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.500000 ,0.000000 0.100000 0.050000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 122122
+1
+~T,-16.367750 -1.000000 20.362980 ,0.000000 90.000000 0.000000 ,0.160000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.500000 ,0.000000 0.100000 -0.050000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 1221221
+1
+~T,-15.414715 -1.000000 25.153709 ,0.000000 -90.000000 0.000000 ,0.150000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.500000 ,0.000000 0.100000 0.050000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 12212211
+1
+~T,-7.164639 -1.000000 18.580185 ,0.000000 -90.000000 0.000000 ,0.150000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.500000 ,0.000000 0.100000 0.050000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 12212212
+1
+~T,-21.718327 -1.000000 37.983639 ,0.000000 -90.000000 0.000000 ,0.130000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.500000 ,0.000000 0.100000 0.050000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 122122121
+1
+~T,-15.409025 -1.000000 18.511152 ,0.000000 -90.000000 0.000000 ,0.150000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.500000 ,0.000000 0.100000 0.050000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 1221221210
+1
+~T,-21.718327 -1.000000 35.807125 ,0.000000 -90.000000 0.000000 ,0.160000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.500000 ,0.000000 0.100000 0.050000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 1221221211
+1
+~T,-23.658854 -1.000000 40.010014 ,0.000000 -90.000000 0.000000 ,0.130000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.500000 ,0.000000 0.100000 0.050000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 12212212111
+1
+~T,-21.718327 -1.000000 36.954193 ,0.000000 -90.000000 0.000000 ,0.130000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.500000 ,0.000000 0.100000 0.050000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 12212212112
+1
+~T,-23.658854 -1.000000 38.983017 ,0.000000 -90.000000 0.000000 ,0.130000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.500000 ,0.000000 0.100000 0.050000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 12212212113
+1
+~T,-23.658854 -1.000000 44.134426 ,0.000000 -90.000000 0.000000 ,0.130000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.500000 ,0.000000 0.100000 0.050000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 122122121131
+1
+~T,-23.658854 -1.000000 41.033424 ,0.000000 -90.000000 0.000000 ,0.130000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.500000 ,0.000000 0.100000 0.050000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 122122121132
+1
+~T,-23.658854 -1.000000 42.052734 ,0.000000 -90.000000 0.000000 ,0.130000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.500000 ,0.000000 0.100000 0.050000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 122122121133
+1
+~T,-23.658854 -1.000000 43.090050 ,0.000000 -90.000000 0.000000 ,0.130000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.500000 ,0.000000 0.100000 0.050000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 122122122
+1
+~T,-17.723848 -1.000000 26.251677 ,0.000000 -90.000000 0.000000 ,0.150000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.500000 ,0.000000 0.100000 0.050000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 122122123
+1
+~T,-17.716578 -1.000000 27.445747 ,0.000000 -90.000000 0.000000 ,0.150000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.500000 ,0.000000 0.100000 0.050000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 122122124
+1
+~T,-17.710814 -1.000000 28.635098 ,0.000000 -90.000000 0.000000 ,0.150000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.500000 ,0.000000 0.100000 0.050000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 122122125
+1
+~T,-17.710814 -1.000000 29.736418 ,0.000000 -90.000000 0.000000 ,0.130000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.500000 ,0.000000 0.100000 0.050000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 122122126
+1
+~T,-21.718327 -1.000000 30.698217 ,0.000000 -90.000000 0.000000 ,0.160000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.500000 ,0.000000 0.100000 0.050000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 122122127
+1
+~T,-21.718327 -1.000000 31.970810 ,0.000000 -90.000000 0.000000 ,0.160000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.500000 ,0.000000 0.100000 0.050000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 122122128
+1
+~T,-21.718327 -1.000000 33.256786 ,0.000000 -90.000000 0.000000 ,0.160000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.500000 ,0.000000 0.100000 0.050000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 122122129
+1
+~T,-21.718327 -1.000000 34.523548 ,0.000000 -90.000000 0.000000 ,0.160000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.500000 ,0.000000 0.100000 0.050000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 12212213
+1
+~T,-15.414224 -1.000000 19.714148 ,0.000000 -90.000000 0.000000 ,0.150000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.500000 ,0.000000 0.100000 0.050000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 12212214
+1
+~T,-15.414715 -1.000000 20.660002 ,0.000000 -90.000000 0.000000 ,0.090000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.500000 ,0.000000 0.100000 0.050000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 12212215
+1
+~T,-15.414715 -1.000000 21.594982 ,0.000000 -90.000000 0.000000 ,0.150000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.500000 ,0.000000 0.100000 0.050000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 12212216
+1
+~T,-15.414715 -1.000000 22.783176 ,0.000000 -90.000000 0.000000 ,0.150000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.500000 ,0.000000 0.100000 0.050000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 12212217
+1
+~T,-15.414715 -1.000000 23.953663 ,0.000000 -90.000000 0.000000 ,0.150000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.500000 ,0.000000 0.100000 0.050000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 1221222
+1
+~T,-7.164639 -1.000000 16.480284 ,0.000000 -90.000000 0.000000 ,0.140000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.500000 ,0.000000 0.100000 0.050000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 1221223
+1
+~T,-12.766500 -1.000000 16.654224 ,0.000000 90.000000 0.000000 ,0.130000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.500000 ,0.000000 0.100000 -0.050000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 1221224
+1
+~T,-18.626665 -1.000000 27.595980 ,0.000000 90.000000 0.000000 ,0.160000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.500000 ,0.000000 0.100000 -0.050000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 12212241
+1
+~T,-16.397535 -1.000000 17.802219 ,0.000000 90.000000 0.000000 ,0.160000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.500000 ,0.000000 0.100000 -0.050000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 12212242
+1
+~T,-19.008045 -1.000000 21.606009 ,0.000000 90.000000 0.000000 ,0.160000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.500000 ,0.000000 0.100000 -0.050000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 12212243
+1
+~T,-19.008045 -1.000000 22.871565 ,0.000000 90.000000 0.000000 ,0.160000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.500000 ,0.000000 0.100000 -0.050000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 12212244
+1
+~T,-25.291014 -1.000000 38.141090 ,0.000000 90.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.500000 ,0.000000 0.100000 -0.050000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 122122441
+1
+~T,-19.008045 -1.000000 24.100756 ,0.000000 90.000000 0.000000 ,0.160000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.500000 ,0.000000 0.100000 -0.050000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 122122442
+1
+~T,-25.291014 -1.000000 29.828451 ,0.000000 90.000000 0.000000 ,0.160000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.500000 ,0.000000 0.100000 -0.050000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 122122443
+1
+~T,-25.291014 -1.000000 31.091076 ,0.000000 90.000000 0.000000 ,0.160000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.500000 ,0.000000 0.100000 -0.050000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 122122444
+1
+~T,-25.291014 -1.000000 32.368145 ,0.000000 90.000000 0.000000 ,0.160000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.500000 ,0.000000 0.100000 -0.050000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 122122445
+1
+~T,-25.291014 -1.000000 33.629333 ,0.000000 90.000000 0.000000 ,0.160000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.500000 ,0.000000 0.100000 -0.050000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 122122446
+1
+~T,-25.291014 -1.000000 34.907639 ,0.000000 90.000000 0.000000 ,0.160000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.500000 ,0.000000 0.100000 -0.050000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 122122447
+1
+~T,-25.291014 -1.000000 36.176983 ,0.000000 90.000000 0.000000 ,0.160000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.500000 ,0.000000 0.100000 -0.050000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 122122448
+1
+~T,-24.535942 -1.000000 43.702221 ,0.000000 90.000000 0.000000 ,0.120000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.500000 ,0.000000 0.100000 -0.050000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 1221224481
+1
+~T,-25.291014 -1.000000 37.270508 ,0.000000 90.000000 0.000000 ,0.120000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.500000 ,0.000000 0.100000 -0.050000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 1221224482
+1
+~T,-24.535942 -1.000000 39.023876 ,0.000000 90.000000 0.000000 ,0.120000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.500000 ,0.000000 0.100000 -0.050000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 1221224483
+1
+~T,-24.535942 -1.000000 39.963711 ,0.000000 90.000000 0.000000 ,0.120000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.500000 ,0.000000 0.100000 -0.050000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 1221224484
+1
+~T,-24.535942 -1.000000 40.910263 ,0.000000 90.000000 0.000000 ,0.120000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.500000 ,0.000000 0.100000 -0.050000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 1221224485
+1
+~T,-24.535942 -1.000000 41.855717 ,0.000000 90.000000 0.000000 ,0.120000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.500000 ,0.000000 0.100000 -0.050000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 1221224486
+1
+~T,-24.535942 -1.000000 42.806725 ,0.000000 90.000000 0.000000 ,0.120000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.500000 ,0.000000 0.100000 -0.050000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 12212245
+1
+~T,-19.008045 -1.000000 25.234240 ,0.000000 90.000000 0.000000 ,0.130000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.500000 ,0.000000 0.100000 -0.050000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 12212246
+1
+~T,-18.626665 -1.000000 26.345121 ,0.000000 90.000000 0.000000 ,0.160000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.500000 ,0.000000 0.100000 -0.050000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 12212247
+1
+~T,-18.626665 -1.000000 28.662882 ,0.000000 90.000000 0.000000 ,0.120000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.500000 ,0.000000 0.100000 -0.050000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 1221225
+1
+~T,-16.373463 -1.000000 19.076385 ,0.000000 90.000000 0.000000 ,0.160000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.500000 ,0.000000 0.100000 -0.050000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 122123
+1
+~T,-7.164639 -1.000000 19.767313 ,0.000000 -90.000000 0.000000 ,0.150000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.500000 ,0.000000 0.100000 0.050000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 122124
+1
+~T,-7.164639 -1.000000 21.028732 ,0.000000 -90.000000 0.000000 ,0.170000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.500000 ,0.000000 0.100000 0.050000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 122125
+1
+~T,-12.772017 -1.000000 21.173836 ,0.000000 90.000000 0.000000 ,0.170000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.500000 ,0.000000 0.100000 -0.050000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 122126
+1
+~T,-12.762195 -1.000000 19.822523 ,0.000000 90.000000 0.000000 ,0.170000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.500000 ,0.000000 0.100000 -0.050000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 12214
+1
+~T,-4.246865 -1.000000 18.042763 ,0.000000 -900.000000 0.000000 ,0.150000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.500000 ,-0.050000 0.100000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 12215
+1
+~T,-14.652627 -1.000000 18.042763 ,0.000000 -900.000000 0.000000 ,0.170000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.500000 ,-0.050000 0.100000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 122151
+1
+~T,-5.387631 -1.000000 18.042763 ,0.000000 -900.000000 0.000000 ,0.140000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.500000 ,-0.050000 0.100000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 122152
+1
+~T,-22.082016 -1.000000 38.465961 ,0.000000 -900.000000 0.000000 ,0.110000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.500000 ,-0.050000 0.100000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 1221521
+1
+~T,-21.308405 -1.000000 30.102911 ,0.000000 -900.000000 0.000000 ,0.110000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.500000 ,-0.050000 0.100000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 12215211
+1
+~T,-17.067701 -1.000000 25.663664 ,0.000000 -900.000000 0.000000 ,0.160000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.500000 ,-0.050000 0.100000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 12215212
+1
+~T,-19.079451 -1.000000 25.662123 ,0.000000 -900.000000 0.000000 ,0.140000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.500000 ,-0.050000 0.100000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 12215213
+1
+~T,-18.303217 -1.000000 30.089962 ,0.000000 -900.000000 0.000000 ,0.150000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.500000 ,-0.050000 0.100000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 12215214
+1
+~T,-19.470591 -1.000000 30.089430 ,0.000000 -900.000000 0.000000 ,0.150000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.500000 ,-0.050000 0.100000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 12215215
+1
+~T,-20.478233 -1.000000 30.096046 ,0.000000 -900.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.500000 ,-0.050000 0.100000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 1221522
+1
+~T,-15.960537 -1.000000 25.653984 ,0.000000 -900.000000 0.000000 ,0.140000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.500000 ,-0.050000 0.100000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 1221523
+1
+~T,-23.040300 -1.000000 38.465961 ,0.000000 -900.000000 0.000000 ,0.140000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.500000 ,-0.050000 0.100000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 1221524
+1
+~T,-24.052073 -1.000000 44.209866 ,0.000000 -900.000000 0.000000 ,0.110000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.500000 ,-0.050000 0.100000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 12215241
+1
+~T,-24.871725 -1.000000 38.465961 ,0.000000 -900.000000 0.000000 ,0.110000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.500000 ,-0.050000 0.100000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 122153
+1
+~T,-13.339449 -1.000000 18.042763 ,0.000000 -900.000000 0.000000 ,0.160000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.500000 ,-0.050000 0.100000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 1222
+1
+~T,-1.702994 -1.000000 7.906874 ,0.000000 180.000000 0.000000 ,0.150000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.300000 ,-0.050000 0.100000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 1223
+1
+~T,-2.924543 -1.000000 7.912673 ,0.000000 180.000000 0.000000 ,0.160000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.300000 ,-0.050000 0.100000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 1224
+1
+~T,-3.645339 -1.000000 8.406363 ,0.000000 -90.000000 0.000000 ,0.140000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.300000 ,-0.050000 0.100000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 1225
+1
+~T,-3.641009 -1.000000 9.365629 ,0.000000 -90.000000 0.000000 ,0.120000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.300000 ,-0.050000 0.100000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 1226
+1
+~T,-2.381609 -1.000000 10.511377 ,0.000000 -90.000000 0.000000 ,0.170000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.300000 ,0.000000 0.100000 0.050000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 12261
+1
+~T,0.366548 -1.000000 12.081745 ,0.000000 -90.000000 0.000000 ,0.250000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.300000 ,0.000000 0.100000 0.050000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 1227
+1
+~T,-2.385605 -1.000000 11.350960 ,0.000000 -90.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.300000 ,0.000000 0.100000 0.050000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 1228
+1
+~T,-0.068323 -1.000000 12.722337 ,0.000000 180.000000 0.000000 ,0.120000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,
+***
+Wall 12281
+1
+~T,-2.385605 -1.000000 13.097059 ,0.000000 -90.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.300000 ,0.000000 0.100000 0.050000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 12282
+1
+~T,-0.146925 -1.000000 11.736062 ,0.000000 0.000000 0.000000 ,0.120000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,
+***
+Wall 122821
+1
+~T,-1.942260 -1.000000 12.716262 ,0.000000 180.000000 0.000000 ,0.120000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.300000 ,-0.050000 0.050000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 122822
+1
+~T,-1.942260 -1.000000 11.736062 ,0.000000 0.000000 0.000000 ,0.120000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.300000 ,0.050000 0.050000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 122823
+1
+~T,-1.100712 -1.000000 11.736062 ,0.000000 0.000000 0.000000 ,0.120000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.300000 ,0.050000 0.050000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 12283
+1
+~T,-1.019753 -1.000000 12.724343 ,0.000000 180.000000 0.000000 ,0.120000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.300000 ,-0.050000 0.100000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 1229
+1
+~T,-2.365774 -1.000000 14.046063 ,0.000000 -90.000000 0.000000 ,0.150000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.500000 ,0.000000 0.100000 0.050000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 123
+1
+~T,-2.958727 -1.000000 6.934203 ,0.000000 0.000000 0.000000 ,0.120000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.300000 ,0.050000 0.120000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 124
+1
+~T,-4.132185 -1.000000 6.934203 ,0.000000 0.000000 0.000000 ,0.170000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.300000 ,0.050000 0.120000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 125
+1
+~T,-5.218466 -1.000000 14.620747 ,0.000000 180.000000 0.000000 ,0.170000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.300000 ,-0.050000 0.120000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 1251
+1
+~T,-7.526727 -1.000000 21.670321 ,0.000000 180.000000 0.000000 ,0.120000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.300000 ,-0.050000 0.120000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 12511
+1
+~T,-5.369133 -1.000000 9.892448 ,0.000000 0.000000 0.000000 ,0.170000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.300000 ,0.050000 0.120000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 12512
+1
+~T,-7.950713 -1.000000 16.075466 ,0.000000 0.000000 0.000000 ,0.170000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.300000 ,0.050000 0.120000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 12513
+1
+~T,-9.277750 -1.000000 16.075466 ,0.000000 0.000000 0.000000 ,0.170000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.300000 ,0.050000 0.120000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 12514
+1
+~T,-10.597160 -1.000000 16.075466 ,0.000000 0.000000 0.000000 ,0.170000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.300000 ,0.050000 0.120000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 12515
+1
+~T,-12.078768 -1.000000 16.075466 ,0.000000 0.000000 0.000000 ,0.200000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.300000 ,0.050000 0.120000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 12516
+1
+~T,-11.837441 -1.000000 21.670321 ,0.000000 180.000000 0.000000 ,0.200000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.300000 ,-0.050000 0.120000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 12517
+1
+~T,-10.265770 -1.000000 21.670321 ,0.000000 180.000000 0.000000 ,0.200000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.300000 ,-0.050000 0.120000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 12518
+1
+~T,-8.675397 -1.000000 21.670321 ,0.000000 180.000000 0.000000 ,0.200000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.300000 ,-0.050000 0.120000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 126
+1
+~T,-3.045363 -1.000000 9.892448 ,0.000000 0.000000 0.000000 ,0.170000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.300000 ,0.050000 0.120000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 13
+1
+~T,2.049938 -1.000000 6.441112 ,0.000000 -90.000000 0.000000 ,0.150000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.300000 ,0.000000 0.100000 0.030000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 14
+1
+~T,-1.121211 -1.000000 6.419663 ,0.000000 90.000000 0.000000 ,0.150000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.300000 ,0.000000 0.100000 -0.030000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 15
+1
+~T,2.041053 -1.000000 8.759754 ,0.000000 -90.000000 0.000000 ,0.170000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.300000 ,0.000000 0.100000 0.030000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 16
+1
+~T,2.041053 -1.000000 7.615932 ,0.000000 -90.000000 0.000000 ,0.150000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.300000 ,0.000000 0.100000 0.030000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 171
+1
+~T,-1.130548 -1.000000 8.340967 ,0.000000 90.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.300000 ,0.000000 0.050000 -0.030000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 172
+1
+~T,-4.643397 -1.000000 7.383690 ,0.000000 90.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.300000 ,0.000000 0.100000 -0.030000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 173
+1
+~T,-4.600443 -1.000000 8.253610 ,0.000000 90.000000 0.000000 ,0.120000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.300000 ,0.000000 0.100000 -0.030000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 174
+1
+~T,-6.564846 -1.000000 17.079210 ,0.000000 0.000000 0.000000 ,0.160000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.300000 ,0.050000 0.100000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 1741
+1
+~T,-4.648438 -1.000000 9.340124 ,0.000000 90.000000 0.000000 ,0.150000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.300000 ,0.000000 0.100000 -0.030000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 1742
+1
+~T,-4.606426 -1.000000 9.340124 ,0.000000 90.000000 0.000000 ,0.160000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.300000 ,0.000000 0.100000 -0.030000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 1743
+1
+~T,-5.941029 -1.000000 10.533118 ,0.000000 90.000000 0.000000 ,0.150000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.300000 ,0.000000 0.100000 -0.030000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 1744
+1
+~T,-5.941029 -1.000000 11.723283 ,0.000000 90.000000 0.000000 ,0.150000 0.100000 0.085000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.300000 ,0.000000 0.100000 -0.030000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 1745
+1
+~T,-5.941029 -1.000000 12.910680 ,0.000000 90.000000 0.000000 ,0.150000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.300000 ,0.000000 0.100000 -0.050000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 1746
+1
+~T,-5.941029 -1.000000 14.110861 ,0.000000 90.000000 0.000000 ,0.150000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.300000 ,0.000000 0.100000 -0.050000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 1747
+1
+~T,-4.604722 -1.000000 15.344789 ,0.000000 90.000000 0.000000 ,0.150000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.300000 ,0.000000 0.100000 -0.050000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 1748
+1
+~T,-4.597856 -1.000000 16.558363 ,0.000000 90.000000 0.000000 ,0.150000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.300000 ,0.000000 0.100000 -0.050000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 1749
+1
+~T,-24.585258 -1.000000 29.131083 ,0.000000 0.000000 0.000000 ,0.180000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.300000 ,0.050000 0.100000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 17491
+1
+~T,-5.306732 -1.000000 17.081579 ,0.000000 0.000000 0.000000 ,0.160000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.300000 ,0.050000 0.100000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 174910
+1
+~T,-23.153814 -1.000000 29.131083 ,0.000000 0.000000 0.000000 ,0.180000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.300000 ,0.050000 0.100000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 17492
+1
+~T,-13.465901 -1.000000 17.081579 ,0.000000 0.000000 0.000000 ,0.160000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.300000 ,0.050000 0.100000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 17493
+1
+~T,-14.723854 -1.000000 17.081579 ,0.000000 0.000000 0.000000 ,0.160000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.300000 ,0.050000 0.100000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 17494
+1
+~T,-15.916401 -1.000000 17.081579 ,0.000000 0.000000 0.000000 ,0.140000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.300000 ,0.050000 0.100000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 17495
+1
+~T,-17.118301 -1.000000 20.978861 ,0.000000 0.000000 0.000000 ,0.160000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.300000 ,0.050000 0.100000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 17496
+1
+~T,-18.362259 -1.000000 20.976013 ,0.000000 0.000000 0.000000 ,0.160000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.300000 ,0.050000 0.100000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 17497
+1
+~T,-19.310270 -1.000000 29.131083 ,0.000000 0.000000 0.000000 ,0.160000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.300000 ,0.050000 0.100000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 17498
+1
+~T,-20.572123 -1.000000 29.131083 ,0.000000 0.000000 0.000000 ,0.160000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.300000 ,0.050000 0.100000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 17499
+1
+~T,-21.834875 -1.000000 29.131083 ,0.000000 0.000000 0.000000 ,0.160000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.300000 ,0.050000 0.100000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 18
+1
+~T,-1.130548 -1.000000 9.124476 ,0.000000 90.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.300000 ,0.000000 0.050000 -0.030000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 19
+1
+~T,-1.130548 -1.000000 9.124476 ,0.000000 90.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.300000 ,0.000000 0.050000 -0.030000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 2
+1
+~T,0.965337 -1.000000 1.910970 ,0.000000 -90.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.300000 ,0.000000 0.100000 0.050000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 20
+1
+~T,-0.730255 -1.000000 9.443558 ,0.000000 180.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.300000 ,0.000000 0.050000 -0.030000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 21
+1
+~T,0.030612 -1.000000 9.442406 ,0.000000 180.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.300000 ,0.000000 0.050000 -0.030000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 22
+1
+~T,0.812349 -1.000000 9.434828 ,0.000000 180.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.300000 ,0.000000 0.050000 -0.030000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 23
+1
+~T,0.026470 -1.000000 5.337010 ,0.000000 90.000000 0.000000 ,0.160000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.500000 ,0.000000 0.100000 -0.050000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 24
+1
+~T,0.026470 -1.000000 3.487377 ,0.000000 90.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.500000 ,0.000000 0.100000 -0.050000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 3
+1
+~T,0.021346 -1.000000 2.689362 ,0.000000 90.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.500000 ,0.000000 0.100000 -0.050000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 4
+1
+~T,0.017351 -1.000000 1.890788 ,0.000000 90.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.500000 ,0.000000 0.100000 -0.050000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 6
+1
+~T,0.963527 -1.000000 2.701722 ,0.000000 -90.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.300000 ,0.000000 0.100000 0.030000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 7
+1
+~T,0.963527 -1.000000 4.312825 ,0.000000 -90.000000 0.000000 ,0.100000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.300000 ,0.000000 0.100000 0.030000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 8
+1
+~T,0.963527 -1.000000 3.500024 ,0.000000 -90.000000 0.000000 ,0.110000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.300000 ,0.000000 0.100000 0.030000 ,0.500000,0.500000,0.600000,0,
+***
+Wall 9
+1
+~T,1.693570 -1.000000 9.429245 ,0.000000 180.000000 0.000000 ,0.170000 0.100000 0.100000 ,none,~4,SimpleWall,0,2,Wall2_Material.004/Wall2_Material.004/,~6,1,4.000000 4.000000 0.300000 ,-0.030000 0.050000 0.000000 ,0.500000,0.500000,0.600000,0,
+***

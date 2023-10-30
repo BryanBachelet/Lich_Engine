@@ -1,0 +1,7 @@
+
+newmtl Container
+map_Kd ContainerLow_conteneur_BaseColor.png
+map_Pm ContainerLow_conteneur_matal.png
+map_Pr ContainerLow_conteneur_Roughness.png
+norm ContainerLow_conteneur_Normal.png
+map_Ka ContainerLow_conteneur_Occlusion.png

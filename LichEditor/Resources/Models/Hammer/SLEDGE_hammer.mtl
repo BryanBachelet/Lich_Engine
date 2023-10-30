@@ -1,0 +1,3 @@
+newmtl HammerMat
+map_Kd hammer_diffuse.png
+norm hammer_normal.png

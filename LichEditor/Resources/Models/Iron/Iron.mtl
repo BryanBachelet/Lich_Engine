@@ -1,0 +1,5 @@
+newmtl Iron
+map_Kd rustediron2_basecolor.png
+norm rustediron2_normal.png
+map_Pm rustediron2_metallic.png
+map_Pr rustediron2_roughness.png

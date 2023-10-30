@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Fichiers sources">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Fichiers de ressources">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Fichiers sources\ImGUI">
+      <UniqueIdentifier>{10a5d094-f4cd-4296-8512-9d5d46173756}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\ImGUI">
+      <UniqueIdentifier>{27e98da3-8612-457e-b7cb-ef459e0aa9d2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\Editor">
+      <UniqueIdentifier>{da4cb443-0f3e-4067-8510-128bac3c5a6b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\Editor">
+      <UniqueIdentifier>{2dea4a4c-ef76-4b2e-952f-46c2a073a5ac}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\imgui.cpp">
+      <Filter>Fichiers sources\ImGUI</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\imgui_demo.cpp">
+      <Filter>Fichiers sources\ImGUI</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\imgui_draw.cpp">
+      <Filter>Fichiers sources\ImGUI</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\imgui_tables.cpp">
+      <Filter>Fichiers sources\ImGUI</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\imgui_widgets.cpp">
+      <Filter>Fichiers sources\ImGUI</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\imgui_impl_opengl3.cpp">
+      <Filter>Fichiers sources\ImGUI</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\imgui_impl_glfw.cpp">
+      <Filter>Fichiers sources\ImGUI</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\glad.c">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\Editor.cpp">
+      <Filter>Fichiers sources\Editor</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\DockingWindow.cpp">
+      <Filter>Fichiers sources\Editor</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\GameViewport.cpp">
+      <Filter>Fichiers sources\Editor</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\HierachyWindow.cpp">
+      <Filter>Fichiers sources\Editor</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\InspectorWindow.cpp">
+      <Filter>Fichiers sources\Editor</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\FileBrowserWindow.cpp">
+      <Filter>Fichiers sources\Editor</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\AssetsResources.cpp">
+      <Filter>Fichiers sources\Editor</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\EditorResources.cpp">
+      <Filter>Fichiers sources\Editor</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\WrapperImGUI.cpp">
+      <Filter>Fichiers sources\Editor</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\ConsoleWindow.cpp">
+      <Filter>Fichiers sources\Editor</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Headers\ImGUI\imconfig.h">
+      <Filter>Fichiers d%27en-tête\ImGUI</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\ImGUI\imgui.h">
+      <Filter>Fichiers d%27en-tête\ImGUI</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\ImGUI\imgui_internal.h">
+      <Filter>Fichiers d%27en-tête\ImGUI</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\ImGUI\imstb_rectpack.h">
+      <Filter>Fichiers d%27en-tête\ImGUI</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\ImGUI\imstb_textedit.h">
+      <Filter>Fichiers d%27en-tête\ImGUI</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\ImGUI\imstb_truetype.h">
+      <Filter>Fichiers d%27en-tête\ImGUI</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\ImGUI\imgui_impl_opengl3.h">
+      <Filter>Fichiers d%27en-tête\ImGUI</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\ImGUI\imgui_impl_glfw.h">
+      <Filter>Fichiers d%27en-tête\ImGUI</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\Editor.h">
+      <Filter>Fichiers d%27en-tête\Editor</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\Editor\DockingWindow.h">
+      <Filter>Fichiers d%27en-tête\Editor</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\Editor\IEditorWindow.h">
+      <Filter>Fichiers d%27en-tête\Editor</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\Editor\GameViewport.h">
+      <Filter>Fichiers d%27en-tête\Editor</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\Editor\EngineData.h">
+      <Filter>Fichiers d%27en-tête\Editor</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Headers\EditorLich\WindowSubscriber.h">
+      <Filter>Fichiers d%27en-tête\Editor</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\Editor\WrappeImGUI.h">
+      <Filter>Fichiers d%27en-tête\Editor</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\Editor\HierachyWindow.h">
+      <Filter>Fichiers d%27en-tête\Editor</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\Editor\InspectorWindow.h">
+      <Filter>Fichiers d%27en-tête\Editor</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\Editor\FileBrowserWindow.h">
+      <Filter>Fichiers d%27en-tête\Editor</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\Editor\AssetsResources.h">
+      <Filter>Fichiers d%27en-tête\Editor</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\Editor\EditorResources.h">
+      <Filter>Fichiers d%27en-tête\Editor</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\Editor\ConsoleWindow.h">
+      <Filter>Fichiers d%27en-tête\Editor</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="resource1.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Logo_Head.ico">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="LichEditor.rc">
+      <Filter>Fichiers de ressources</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,674 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Fichiers sources">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Fichiers de ressources">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\Dll">
+      <UniqueIdentifier>{749156b4-f3d6-4890-b0f6-222578e741c6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\Dll">
+      <UniqueIdentifier>{35d7a374-95a2-4918-b0a8-e7870573cd77}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\Core">
+      <UniqueIdentifier>{7431b30a-78b4-4a54-891b-1b8fdaaac4ff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\Core">
+      <UniqueIdentifier>{815123fc-a903-4430-bf92-8f6c932d4a58}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\Utils">
+      <UniqueIdentifier>{261edb44-62d4-4201-9953-ee453cf1927c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\Utils">
+      <UniqueIdentifier>{04cdf112-9d59-4a70-a622-73c9f70781ea}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\Debug">
+      <UniqueIdentifier>{2f97a2d5-8bf6-4651-a10d-6b07ad13b95c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\Debug">
+      <UniqueIdentifier>{329790d1-770e-4650-b7a0-f0162c74a878}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\Resource">
+      <UniqueIdentifier>{cb98d3db-312c-48c0-a0ca-8a2fb1bd4e58}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\Resource">
+      <UniqueIdentifier>{c4e99c01-4312-42dd-aab0-64b207c92bed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\Camera">
+      <UniqueIdentifier>{d29bb4d4-070a-4640-b8e7-a744900c69eb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\Camera">
+      <UniqueIdentifier>{f2d74915-9a15-4609-8a0d-6d7bffc999a1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\Scene">
+      <UniqueIdentifier>{cf068de8-2aca-4b64-b540-8b13b9439081}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\Scene">
+      <UniqueIdentifier>{d0979374-3f5f-4466-8637-51142779d450}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\Physics">
+      <UniqueIdentifier>{001d0fda-4b3e-4ce4-8b1b-c0ee1588d81c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\Physics">
+      <UniqueIdentifier>{be167be1-1258-4561-a02e-82ae62aa1b8c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\Lights">
+      <UniqueIdentifier>{432bc6a4-132c-42fa-b21f-31585aafab9b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\Lights">
+      <UniqueIdentifier>{41c47c43-fe70-475d-87bc-f3ef90e8836f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\Renderer">
+      <UniqueIdentifier>{7afaf7cc-316a-4c50-b918-b583ef62aa44}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\Renderer">
+      <UniqueIdentifier>{9804170a-1e30-47e2-a373-6bfe22ad4190}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\Animation">
+      <UniqueIdentifier>{a6e34a2d-1668-403a-a222-57ba7775ed76}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\Animation">
+      <UniqueIdentifier>{c1831bda-de56-4e85-9e24-79fc583e963b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Shaders">
+      <UniqueIdentifier>{3839b1c9-c2c3-4762-b31f-8870121f2a41}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\UI">
+      <UniqueIdentifier>{d59166fc-f675-41b0-ad16-d6ae4f4e77d8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\UI">
+      <UniqueIdentifier>{1109a2c0-ab39-4843-9f17-0d91bc10ebd2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\Sounds">
+      <UniqueIdentifier>{d8607b46-a24c-46a0-a43c-23a45cc00c38}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\Sound">
+      <UniqueIdentifier>{1ce58377-3fa4-438f-80db-4b9d2effcb4c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\Reflexion">
+      <UniqueIdentifier>{a8728dbf-8b63-47e3-b346-c4a7d3a4c162}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\Reflexion">
+      <UniqueIdentifier>{3309a145-b4f1-4614-80ec-af33b6a98388}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\Scripting">
+      <UniqueIdentifier>{fbf84988-60a2-499a-a33b-4103ad191ed5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\Scripting">
+      <UniqueIdentifier>{c07247e3-da48-4979-bf79-3ac339e149fc}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="pch.h">
+      <Filter>Fichiers d%27en-tête\Dll</Filter>
+    </ClInclude>
+    <ClInclude Include="framework.h">
+      <Filter>Fichiers d%27en-tête\Dll</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Headers\Define.h">
+      <Filter>Fichiers d%27en-tête\Dll</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Headers\Core\App.h">
+      <Filter>Fichiers d%27en-tête\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Headers\Core\AppSettings.h">
+      <Filter>Fichiers d%27en-tête\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Headers\Core\Window.h">
+      <Filter>Fichiers d%27en-tête\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Headers\Maths.h">
+      <Filter>Fichiers d%27en-tête\Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Headers\Core\WrapperWindow.h">
+      <Filter>Fichiers d%27en-tête\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Headers\Core\RHI.h">
+      <Filter>Fichiers d%27en-tête\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Headers\Resources\Texture.h">
+      <Filter>Fichiers d%27en-tête\Resource</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Headers\Resources\Resource.h">
+      <Filter>Fichiers d%27en-tête\Resource</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Headers\Resources\ResourceManager.h">
+      <Filter>Fichiers d%27en-tête\Resource</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Headers\Resources\Shader.h">
+      <Filter>Fichiers d%27en-tête\Resource</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Headers\Resources\Model.h">
+      <Filter>Fichiers d%27en-tête\Resource</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Headers\Resources\Vertex.h">
+      <Filter>Fichiers d%27en-tête\Resource</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Headers\Core\InputManager.h">
+      <Filter>Fichiers d%27en-tête\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Headers\Scene\GameObject.h">
+      <Filter>Fichiers d%27en-tête\Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Headers\Scene\Scene.h">
+      <Filter>Fichiers d%27en-tête\Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Headers\Scene\SceneGraph.h">
+      <Filter>Fichiers d%27en-tête\Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Headers\Scene\SceneManager.h">
+      <Filter>Fichiers d%27en-tête\Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Headers\Core\DirLight.h">
+      <Filter>Fichiers d%27en-tête\Lights</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Headers\Core\Light.h">
+      <Filter>Fichiers d%27en-tête\Lights</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Headers\Core\LightManager.h">
+      <Filter>Fichiers d%27en-tête\Lights</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Headers\Core\PointLight.h">
+      <Filter>Fichiers d%27en-tête\Lights</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Headers\Core\SpotLight.h">
+      <Filter>Fichiers d%27en-tête\Lights</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Headers\Core\TimeManager.h">
+      <Filter>Fichiers d%27en-tête\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Headers\Renderer\Mesh.h">
+      <Filter>Fichiers d%27en-tête\Renderer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Headers\Camera\Camera.h">
+      <Filter>Fichiers d%27en-tête\Camera</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Headers\Camera\Skybox.h">
+      <Filter>Fichiers d%27en-tête\Camera</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Headers\Resources\WrapperRapidObj.h">
+      <Filter>Fichiers d%27en-tête\Resource</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Headers\Resources\WrapperSTBI.h">
+      <Filter>Fichiers d%27en-tête\Resource</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Headers\Scene\Component.h">
+      <Filter>Fichiers d%27en-tête\Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Headers\Physics\Transform.h">
+      <Filter>Fichiers d%27en-tête\Physics</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Headers\Physics\PhysicsManager.h">
+      <Filter>Fichiers d%27en-tête\Physics</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Headers\Physics\Collider.h">
+      <Filter>Fichiers d%27en-tête\Physics</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Headers\Physics\RigidBody.h">
+      <Filter>Fichiers d%27en-tête\Physics</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Headers\Physics\WrapperPhysX.h">
+      <Filter>Fichiers d%27en-tête\Physics</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Headers\Renderer\GBuffer.h">
+      <Filter>Fichiers d%27en-tête\Renderer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Headers\Renderer\Kernel.h">
+      <Filter>Fichiers d%27en-tête\Renderer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Headers\Renderer\RenderManager.h">
+      <Filter>Fichiers d%27en-tête\Renderer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Headers\Resources\Material.h">
+      <Filter>Fichiers d%27en-tête\Resource</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Headers\Resources\ThreadPool.h">
+      <Filter>Fichiers d%27en-tête\Resource</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Headers\Resources\WrapperAssimp.h">
+      <Filter>Fichiers d%27en-tête\Resource</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Headers\Resources\Shape.h">
+      <Filter>Fichiers d%27en-tête\Resource</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Headers\Animation\Animator.h">
+      <Filter>Fichiers d%27en-tête\Animation</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Headers\Animation\Animation.h">
+      <Filter>Fichiers d%27en-tête\Animation</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Headers\Animation\Skeleton.h">
+      <Filter>Fichiers d%27en-tête\Animation</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Headers\Animation\Bone.h">
+      <Filter>Fichiers d%27en-tête\Animation</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Headers\Define.h">
+      <Filter>Fichiers d%27en-tête\Dll</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Headers\ToolBox.h">
+      <Filter>Fichiers d%27en-tête\Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Headers\Resources\WrapperAudio.h">
+      <Filter>Fichiers d%27en-tête\Resource</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Headers\Resources\SoundInstance.h">
+      <Filter>Fichiers d%27en-tête\Resource</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Headers\Debugs\Log.h">
+      <Filter>Fichiers d%27en-tête\Debug</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Headers\Sound\SoundListner.h">
+      <Filter>Fichiers d%27en-tête\Sounds</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Headers\Sound\SoundEvent.h">
+      <Filter>Fichiers d%27en-tête\Sounds</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Headers\Scene\Gizmos.h">
+      <Filter>Fichiers d%27en-tête\Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Headers\Sound\AudioManager.h">
+      <Filter>Fichiers d%27en-tête\Sounds</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Headers\UI\Font.h">
+      <Filter>Fichiers d%27en-tête\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Headers\UI\Image.h">
+      <Filter>Fichiers d%27en-tête\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Headers\UI\Text.h">
+      <Filter>Fichiers d%27en-tête\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Headers\Resources\ResourcerReflectionProperty.h">
+      <Filter>Fichiers d%27en-tête\Reflexion</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Headers\Reflexion\VectorReflexionProperty.h">
+      <Filter>Fichiers d%27en-tête\Reflexion</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Headers\Resources\Scripting.h">
+      <Filter>Fichiers d%27en-tête\Scripting</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Headers\Reflexion\TitleReflectionProperty.h">
+      <Filter>Fichiers d%27en-tête\Reflexion</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Headers\Scripts\Look.h">
+      <Filter>Fichiers d%27en-tête\Scripting</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Headers\Scripts\Move.h">
+      <Filter>Fichiers d%27en-tête\Scripting</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Headers\Scripts\Menu.h">
+      <Filter>Fichiers d%27en-tête\Scripting</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Headers\Scripts\SoundTrigger.h">
+      <Filter>Fichiers d%27en-tête\Scripting</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Headers\Scripts\BlinkingLight.h">
+      <Filter>Fichiers d%27en-tête\Scripting</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Headers\Scripts\Monster.h">
+      <Filter>Fichiers d%27en-tête\Scripting</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Headers\Scripts\Throw.h">
+      <Filter>Fichiers d%27en-tête\Scripting</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Headers\Scripts\Flashlight.h">
+      <Filter>Fichiers d%27en-tête\Scripting</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Headers\Scripts\Battery.h">
+      <Filter>Fichiers d%27en-tête\Scripting</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Headers\Scripts\Tool.h">
+      <Filter>Fichiers d%27en-tête\Scripting</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Headers\Scripts\BatteryManager.h">
+      <Filter>Fichiers d%27en-tête\Scripting</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Headers\Scripts\ToolManager.h">
+      <Filter>Fichiers d%27en-tête\Scripting</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Headers\Scripts\AlarmLight.h">
+      <Filter>Fichiers d%27en-tête\Scripting</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Headers\Scripts\Gameplay.h">
+      <Filter>Fichiers d%27en-tête\Scripting</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Headers\Scripts\ImageFade.h">
+      <Filter>Fichiers d%27en-tête\Scripting</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Headers\Scripts\MovingCrate.h">
+      <Filter>Fichiers d%27en-tête\Scripting</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Headers\Scripts\PauseMenu.h">
+      <Filter>Fichiers d%27en-tête\Scripting</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Headers\Scripts\MenuLight.h">
+      <Filter>Fichiers d%27en-tête\Scripting</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Headers\Scripts\MenuTitle.h">
+      <Filter>Fichiers d%27en-tête\Scripting</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Headers\Scripts\LogoGame.h">
+      <Filter>Fichiers d%27en-tête\Scripting</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Headers\Scripts\PlayMusic.h">
+      <Filter>Fichiers d%27en-tête\Scripting</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="dllmain.cpp">
+      <Filter>Fichiers sources\Dll</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>Fichiers sources\Dll</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\Maths.cpp">
+      <Filter>Fichiers sources\Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\Resource.cpp">
+      <Filter>Fichiers sources\Resource</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\ResourceManager.cpp">
+      <Filter>Fichiers sources\Resource</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\Debugs\Log.cpp">
+      <Filter>Fichiers sources\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\glad.c">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\InputManager.cpp">
+      <Filter>Fichiers sources\Core</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\SceneGraph.cpp">
+      <Filter>Fichiers sources\Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\Scene.cpp">
+      <Filter>Fichiers sources\Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\SceneManager.cpp">
+      <Filter>Fichiers sources\Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\GameObject.cpp">
+      <Filter>Fichiers sources\Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\TimeManager.cpp">
+      <Filter>Fichiers sources\Core</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\Mesh.cpp">
+      <Filter>Fichiers sources\Renderer</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\Camera.cpp">
+      <Filter>Fichiers sources\Camera</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\Transform.cpp">
+      <Filter>Fichiers sources\Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\Model.cpp">
+      <Filter>Fichiers sources\Resource</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\Shader.cpp">
+      <Filter>Fichiers sources\Resource</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\Texture.cpp">
+      <Filter>Fichiers sources\Resource</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\WrapperRapidObj.cpp">
+      <Filter>Fichiers sources\Resource</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\WrapperSTBI.cpp">
+      <Filter>Fichiers sources\Resource</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\App.cpp">
+      <Filter>Fichiers sources\Core</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\RHI.cpp">
+      <Filter>Fichiers sources\Core</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\Window.cpp">
+      <Filter>Fichiers sources\Core</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\WrapperWindow.cpp">
+      <Filter>Fichiers sources\Core</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\DirLight.cpp">
+      <Filter>Fichiers sources\Lights</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\Light.cpp">
+      <Filter>Fichiers sources\Lights</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\LightManager.cpp">
+      <Filter>Fichiers sources\Lights</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\PointLight.cpp">
+      <Filter>Fichiers sources\Lights</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\SpotLight.cpp">
+      <Filter>Fichiers sources\Lights</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\Component.cpp">
+      <Filter>Fichiers sources\Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\PhysicsManager.cpp">
+      <Filter>Fichiers sources\Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\Collider.cpp">
+      <Filter>Fichiers sources\Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\RigidBody.cpp">
+      <Filter>Fichiers sources\Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\WrapperPhysX.cpp">
+      <Filter>Fichiers sources\Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\Kernel.cpp">
+      <Filter>Fichiers sources\Renderer</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\RenderManager.cpp">
+      <Filter>Fichiers sources\Renderer</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\GBuffer.cpp">
+      <Filter>Fichiers sources\Renderer</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\Material.cpp">
+      <Filter>Fichiers sources\Resource</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\Shape.cpp">
+      <Filter>Fichiers sources\Resource</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\ToolBox.cpp">
+      <Filter>Fichiers sources\Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\Animation.cpp">
+      <Filter>Fichiers sources\Animation</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\Animator.cpp">
+      <Filter>Fichiers sources\Animation</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\Bone.cpp">
+      <Filter>Fichiers sources\Animation</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\Skeleton.cpp">
+      <Filter>Fichiers sources\Animation</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\ThreadPool.cpp">
+      <Filter>Fichiers sources\Resource</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\WrapperAssimp.cpp">
+      <Filter>Fichiers sources\Resource</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\WrapperAudio.cpp">
+      <Filter>Fichiers sources\Resource</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\SoundInstance.cpp">
+      <Filter>Fichiers sources\Resource</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\SoundListner.cpp">
+      <Filter>Fichiers sources\Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\AudioManager.cpp">
+      <Filter>Fichiers sources\Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\SoundEvent.cpp">
+      <Filter>Fichiers sources\Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\Gizmos.cpp">
+      <Filter>Fichiers sources\Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\Font.cpp">
+      <Filter>Fichiers sources\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\Image.cpp">
+      <Filter>Fichiers sources\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\Text.cpp">
+      <Filter>Fichiers sources\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\Skybox.cpp">
+      <Filter>Fichiers sources\Camera</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\VectorReflexionProperty.cpp">
+      <Filter>Fichiers sources\Reflexion</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\ResourcerReflectionProperty.cpp">
+      <Filter>Fichiers sources\Reflexion</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\TitleReflectionProperty.cpp">
+      <Filter>Fichiers sources\Reflexion</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\Scripting.cpp">
+      <Filter>Fichiers sources\Scripting</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\Move.cpp">
+      <Filter>Fichiers sources\Scripting</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\Look.cpp">
+      <Filter>Fichiers sources\Scripting</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\Menu.cpp">
+      <Filter>Fichiers sources\Scripting</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\SoundTrigger.cpp">
+      <Filter>Fichiers sources\Scripting</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\BlinkingLight.cpp">
+      <Filter>Fichiers sources\Scripting</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\Monster.cpp">
+      <Filter>Fichiers sources\Scripting</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\Flashlight.cpp">
+      <Filter>Fichiers sources\Scripting</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\Battery.cpp">
+      <Filter>Fichiers sources\Scripting</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\Throw.cpp">
+      <Filter>Fichiers sources\Scripting</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\Tool.cpp">
+      <Filter>Fichiers sources\Scripting</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\BatteryManager.cpp">
+      <Filter>Fichiers sources\Scripting</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\ToolManager.cpp">
+      <Filter>Fichiers sources\Scripting</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\AlarmLight.cpp">
+      <Filter>Fichiers sources\Scripting</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\ImageFade.cpp">
+      <Filter>Fichiers sources\Scripting</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\MovingCrate.cpp">
+      <Filter>Fichiers sources\Scripting</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\PauseMenu.cpp">
+      <Filter>Fichiers sources\Scripting</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\MenuLight.cpp">
+      <Filter>Fichiers sources\Scripting</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\MenuTitle.cpp">
+      <Filter>Fichiers sources\Scripting</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\LogoGame.cpp">
+      <Filter>Fichiers sources\Scripting</Filter>
+    </ClCompile>
+    <ClCompile Include="Sources\PlayMusic.cpp">
+      <Filter>Fichiers sources\Scripting</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\Headers\Maths.inl">
+      <Filter>Fichiers d%27en-tête\Utils</Filter>
+    </None>
+    <None Include="..\LichEditor\Resources\Shaders\blur.ls">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="..\LichEditor\Resources\Shaders\gaussianBlur.ls">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="..\LichEditor\Resources\Shaders\geometry.ls">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="..\LichEditor\Resources\Shaders\PBR.ls">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="..\LichEditor\Resources\Shaders\shader.ls">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="..\LichEditor\Resources\Shaders\shadowDirLight.ls">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="..\LichEditor\Resources\Shaders\shadowPointLight.ls">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="..\LichEditor\Resources\Shaders\shadowSpotLight.ls">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="..\LichEditor\Resources\Shaders\ssao.ls">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="..\LichEditor\Resources\Shaders\hdr.ls">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="..\LichEditor\Resources\Shaders\PBRForward.ls">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="..\LichEditor\Resources\Shaders\postprocess.ls">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="..\LichEditor\Resources\Shaders\UIImage.ls">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="..\LichEditor\Resources\Shaders\UIText.ls">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="..\LichEditor\Resources\Shaders\bloom.ls">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="cpp.hint">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="..\LichEditor\Resources\Shaders\gizmo.ls">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="..\LichEditor\Resources\Shaders\lighting.ls">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="..\LichEditor\Resources\Shaders\picking.ls">
+      <Filter>Shaders</Filter>
+    </None>
+  </ItemGroup>
+</Project>

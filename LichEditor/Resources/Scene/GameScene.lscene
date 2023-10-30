@@ -1,0 +1,166 @@
+2,.\Resources\Models\battery\textures\Battery_albedo.jpeg,Battery_albedo,
+2,.\Resources\Models\battery\textures\Battery_normal.jpeg,Battery_normal,
+2,.\Resources\Models\battery\textures\Battery_metallic.jpeg,Battery_metallic,
+2,.\Resources\Models\battery\textures\Battery_roughness.jpeg,Battery_roughness,
+2,.\Resources\Models\battery\textures\Battery_AO.jpeg,Battery_AO,
+6,.\Resources\Materials\battery_Material_1.lmat,battery_Material_1,
+0,.\Resources\Models\battery\battery.obj,battery,
+2,Resources/Models/Floor/floor_diffuse.jpg,floor_diffuse,
+2,Resources/Models/Floor/floor_normal.jpg,floor_normal,
+2,Resources/Models/Floor/floor_height.jpg,floor_height,
+6,Resources/Materials/rock_Material.lmat,rock_Material,
+0,EditorResources/Cube/cube.obj,Cube,
+2,.\Resources\Textures\SkyBox\right.png,right,
+2,.\Resources\Textures\SkyBox\left.png,left,
+2,.\Resources\Textures\SkyBox\top.png,top,
+2,.\Resources\Textures\SkyBox\bottom.png,bottom,
+2,.\Resources\Textures\SkyBox\front.png,front,
+2,.\Resources\Textures\SkyBox\back.png,back,
+0,Resources/Models/Skybox/CubeSky.obj,CubeSky,
+7,Resources/Skybox/Skybox.lskybox,Skybox,
+4,.\Resources\Sounds\FlashlightTurnOn.ogg,FlashlightTurnOn,
+4,.\Resources\Sounds\FlashlightTurnOff.ogg,FlashlightTurnOff,
+4,.\Resources\Sounds\Recharge.ogg,Recharge,
+2,.\Resources\Models\Flashlight\Flashlight_BaseColor.png,Flashlight_BaseColor,
+2,.\Resources\Models\Flashlight\Flashlight_normal.png,Flashlight_normal,
+2,.\Resources\Models\Flashlight\Flashlight_Metalness.png,Flashlight_Metalness,
+6,.\Resources\Materials\Flashlight_M_Flashlight_V01.lmat,Flashlight_M_Flashlight_V01,
+0,.\Resources\Models\Flashlight\Flashlight.obj,Flashlight,
+4,.\Resources\Sounds\footstep_1.ogg,footstep_1,
+4,.\Resources\Sounds\footstep_2.ogg,footstep_2,
+4,.\Resources\Sounds\footstep_3.ogg,footstep_3,
+4,.\Resources\Sounds\footstep_4.ogg,footstep_4,
+4,.\Resources\Sounds\footstep_5.ogg,footstep_5,
+4,.\Resources\Sounds\footstep_6.ogg,footstep_6,
+4,.\Resources\Sounds\footstep_7.ogg,footstep_7,
+2,.\Resources\Models\Characters\textures\Ch30_1002_Diffuse.png,Ch30_1002_Diffuse,
+6,Resources/Materials/Zombie Scream_Ch30_Body.lmat,Zombie Scream_Ch30_Body,
+2,.\Resources\Models\Characters\textures\Ch30_1001_Diffuse.png,Ch30_1001_Diffuse,
+2,.\Resources\Models\Characters\textures\Ch04_1001_Normal.png,Ch04_1001_Normal,
+6,Resources/Materials/Zombie Scream_Ch30_Body1.lmat,Zombie Scream_Ch30_Body1,
+0,.\Resources\Models\Characters\ZombieWalking.fbx,ZombieWalking,
+3,.\Resources\Models\Characters\ZombieWalking_skeleton.lskel,ZombieWalking_skeleton,
+5,.\Resources\Models\Characters\ZombieWalking_anim0.lanim,ZombieWalking_anim0,
+5,.\Resources\Models\Characters\NewZombieScream_anim0.lanim,NewZombieScream_anim0,
+5,.\Resources\Models\Characters\newZombieRunning_anim0.lanim,newZombieRunning_anim0,
+8,.\Resources\Fonts\BLOODY.TTF,BLOODY,
+4,.\Resources\Sounds\spacehorror2.mp3,spacehorror2,
+4,.\Resources\Sounds\WrenchHit1.ogg,WrenchHit1,
+4,.\Resources\Sounds\WrenchHit2.ogg,WrenchHit2,
+4,.\Resources\Sounds\WrenchHit3.ogg,WrenchHit3,
+4,.\Resources\Sounds\GetWrench.ogg,GetWrench,
+2,.\Resources\Models\walworth-wrench\textures\assembled_vintage_wrench_base_color.jpg,assembled_vintage_wrench_base_color,
+2,.\Resources\Models\walworth-wrench\textures\assembled_vintage_wrench_normal.jpg,assembled_vintage_wrench_normal,
+2,.\Resources\Models\walworth-wrench\textures\assembled_vintage_wrench_metallic.jpg,assembled_vintage_wrench_metallic,
+2,.\Resources\Models\walworth-wrench\textures\assembled_vintage_wrench_roughness.jpg,assembled_vintage_wrench_roughness,
+6,.\Resources\Materials\wrench_vintage_wrench.lmat,wrench_vintage_wrench,
+0,.\Resources\Models\walworth-wrench\wrench.obj,wrench,
+***
+BatteryManager
+1
+~T,0.000000 0.000000 0.000000 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,none,~8,BatteryManager, ,
+***
+Battery1
+1
+~T,1.786846 0.694316 -1.014067 ,0.000000 0.000000 0.000000 ,0.200000 0.200000 0.200000 ,BatteryManager,~8,Battery,1.000000,10.000000,~4,battery,0,1,battery_Material_1/,
+***
+Block 1
+1
+~T,0.000000 0.000000 0.000000 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,none,~4,Cube,0,1,rock_Material/,~6,1,0.500000 0.500000 0.500000 ,0.000000 0.000000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+Block 2
+1
+~T,1.000000 0.000000 0.000000 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,none,~4,Cube,0,1,rock_Material/,~6,1,0.500000 0.500000 0.500000 ,0.000000 0.000000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+Block 4
+1
+~T,1.000000 0.000000 -0.999239 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,none,~4,Cube,0,1,rock_Material/,~6,1,0.500000 0.500000 0.500000 ,0.000000 0.000000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+Block 41
+1
+~T,1.994013 0.000000 -0.005494 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,none,~4,Cube,0,1,rock_Material/,~6,1,0.500000 0.500000 0.500000 ,0.000000 0.000000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+Block 411
+1
+~T,1.990479 0.000000 0.989533 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,none,~4,Cube,0,1,rock_Material/,~6,1,0.500000 0.500000 0.500000 ,0.000000 0.000000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+Block 4111
+1
+~T,1.992563 0.000000 -0.999469 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,none,~4,Cube,0,1,rock_Material/,~6,1,0.500000 0.500000 0.500000 ,0.000000 0.000000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+Block 5
+1
+~T,0.000000 0.000000 -1.000000 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,none,~4,Cube,0,1,rock_Material/,~6,1,0.500000 0.500000 0.500000 ,0.000000 0.000000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+Block 6
+1
+~T,-1.000000 0.000000 -1.000000 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,none,~4,Cube,0,1,rock_Material/,~6,1,0.500000 0.500000 0.500000 ,0.000000 0.000000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+Block 7
+1
+~T,1.000000 0.000000 0.991297 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,none,~4,Cube,0,1,rock_Material/,~6,1,0.500000 0.500000 0.500000 ,0.000000 0.000000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+Block 8
+1
+~T,0.000000 0.000000 1.000000 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,none,~4,Cube,0,1,rock_Material/,~6,1,0.500000 0.500000 0.500000 ,0.000000 0.000000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+Block 9
+1
+~T,-1.000000 0.000000 1.000000 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,none,~4,Cube,0,1,rock_Material/,~6,1,0.500000 0.500000 0.500000 ,0.000000 0.000000 0.000000 ,0.500000,0.500000,0.600000,0,
+***
+Lights
+1
+~T,0.000000 0.000000 0.000000 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,none,
+***
+Directional Light
+1
+~T,0.000000 0.000000 0.000000 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,Lights,~1,0.000000 0.000000 0.000000 ,1.000000,1,0.000000 0.000000 1.000000 ,0.100000,
+***
+Monster
+1
+~T,0.000000 0.500000 1.250000 ,0.000000 0.000000 0.000000 ,0.005000 0.005000 0.005000 ,none,~4,ZombieWalking,0,2,Zombie Scream_Ch30_Body/Zombie Scream_Ch30_Body1/,~6,3,50.000000 90.000000 50.000000 ,0.000000 0.450000 0.000000 ,0.500000,0.500000,0.600000,0,~8,Monster,0.900000,4,0.000000 0.500000 1.000000 ,1.000000 0.500000 1.000000 ,1.000000 0.500000 0.000000 ,0.000000 0.500000 0.000000 ,~7,ZombieWalking_skeleton,3,ZombieWalking_anim0,NewZombieScream_anim0,newZombieRunning_anim0,~10,1,0,0,0.100000,30.000000,0.000000 0.500000 1.250000 ,7,footstep_1,footstep_2,footstep_3,footstep_4,footstep_5,footstep_6,footstep_7,
+***
+MovingBlock
+1
+~T,-1.000000 1.000000 0.000000 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,none,~4,Cube,0,1,rock_Material/,~6,1,0.500000 0.500000 0.500000 ,0.000000 0.000000 0.000000 ,0.500000,0.500000,0.600000,0,~8,MovingCrate,1.000000,7,-2.000000 1.000000 0.000000 ,-2.000000 1.000000 2.000000 ,3.000000 1.000000 2.000000 ,3.000000 1.000000 -2.000000 ,-2.000000 1.000000 -2.000000 ,-2.000000 1.000000 0.000000 ,-1.000000 1.000000 0.000000 ,
+***
+Player
+1
+~T,-0.172501 0.800000 -1.119106 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,none,~8,Move,1.000000,0.100000,~5,0,1,1.000000,0.000000,0.000000,0,0,0,1,1,1,0,0,~6,3,0.200000 0.300000 0.300000 ,0.000000 0.200000 0.000000 ,0.500000,0.500000,0.000000,0,~10,1,0,0,0.100000,30.000000,-0.172501 0.800000 -1.119106 ,7,footstep_1,footstep_2,footstep_3,footstep_4,footstep_5,footstep_6,footstep_7,
+***
+Eye
+1
+~T,0.000000 0.500000 0.000000 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,Player,~0,60.000000,1.777778,100.000000,0.010000,0.000000 0.000000 1.000000 ,Skybox,~8,Look,5.000000,
+***
+FlashLight
+1
+~T,-0.100000 -0.075000 0.100000 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,Eye,~4,Flashlight,0,1,Flashlight_M_Flashlight_V01/,~3,0.900433 0.582874 0.304042 1.000000 ,3.682542,1,0.000000 0.000000 1.000000 ,-0.272501 1.225000 -1.019106 ,15.000000,30.000000,0.000000,~8,Flashlight,3.000000,0.000000,20.000000,0.300000,~10,1,0,0,0.100000,30.000000,-0.272501 1.225000 -1.019106 ,3,FlashlightTurnOn,FlashlightTurnOff,Recharge,
+***
+Tool
+1
+~T,-1.316206 -1.106836 -0.543387 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,Eye,~8,Throw,0.750000,10.000000,30.000000,
+***
+TextGrab
+1
+~T,0.000000 0.000000 0.000000 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,none,~11, ,1.000000,0.350000 0.110000 ,0.848485 0.526732 0.499541 1.000000 ,BLOODY,
+***
+TextGrab1
+1
+~T,0.000000 0.000000 0.000000 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,none,~11, ,1.000000,0.350000 0.110000 ,0.848485 0.526732 0.499541 1.000000 ,BLOODY,
+***
+ToolManager
+1
+~T,0.000000 0.000000 0.000000 ,0.000000 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,none,~8,ToolManager,1.000000,
+***
+wrench
+1
+~T,-0.198816 1.069062 -0.042648 ,180.000000 -82.975853 180.000000 ,0.100000 0.100000 0.100000 ,ToolManager,~4,wrench,0,1,wrench_vintage_wrench/,~5,0,1,20.000000,4.000000,4.000000,0,0,0,0,0,0,0,0,~6,1,0.200000 0.200000 1.400000 ,0.000000 0.000000 0.000000 ,0.500000,0.500000,0.600000,0,~10,1,0,0,0.100000,30.000000,-0.198816 1.069062 -0.042648 ,4,WrenchHit1,WrenchHit2,WrenchHit3,GetWrench,~8,Tool, ,
+***
+wrench1
+1
+~T,-0.551376 0.995275 -1.116689 ,0.000000 -47.795586 0.000000 ,0.100000 0.100000 0.100000 ,ToolManager,~4,wrench,0,1,wrench_vintage_wrench/,~5,0,1,20.000000,4.000000,4.000000,0,0,0,0,0,0,0,0,~6,1,0.200000 0.200000 1.400000 ,0.000000 0.000000 0.000000 ,0.500000,0.500000,0.600000,0,~10,1,0,0,0.100000,30.000000,-0.551376 0.995275 -1.116689 ,4,WrenchHit1,WrenchHit2,WrenchHit3,GetWrench,~8,Tool, ,
+***
+test
+1
+~T,1.901565 1.226823 0.000000 ,66.528435 0.000000 0.000000 ,1.000000 1.000000 1.000000 ,none,~3,1.000000 0.181818 0.000000 1.000000 ,20.000000,1,0.000000 -0.917258 0.398294 ,1.901565 1.226823 0.000000 ,10.000000,20.000000,0.040000,~8,Scripting,~10,0,1,1,0.000000,30.000000,1.901565 1.226823 0.000000 ,1,spacehorror2,
+***

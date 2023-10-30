@@ -1,0 +1,7 @@
+newmtl Sphere2
+map_Kd dry-rocky-ground_albedo.png
+norm dry-rocky-ground_normal-ogl.png
+disp dry-rocky-ground_height.png
+map_Pm dry-rocky-ground_metallic.png
+map_Pr dry-rocky-ground_roughness.png
+map_Ka dry-rocky-ground_ao.png
